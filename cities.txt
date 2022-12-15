@@ -1,0 +1,4296 @@
+Rio das Ostras	100000
+Horad Barysaw	100000
+Kangding	100000
+Alamar	100000
+MSila	100000
+Becontree	100000
+Yafo	100000
+Airoli	100000
+Pyongsong	100000
+Tagiura	100000
+Colonia Lindavista	100000
+Subotica	100000
+Tekstilshchiki	100000
+Kamieniec Podolski	100000
+Telde	100015
+Punta Cana	100023
+Worcester	100023
+Temecula	100097
+Trier	100129
+Phagwara	100146
+Kalmunai	100171
+Kuhdasht	100208
+Zonguldak	100229
+UstIlimsk	100271
+Tiebo	100289
+Magangue	100313
+Linxi	100316
+Lianjiang	100341
+Chikushinoshi	100353
+Martinez de la Torre	100377
+Centennial	100377
+Playa del Carmen	100383
+Konan	100389
+Sakata	100446
+Vasco Da Gama	100485
+Qalyub	100495
+Padangsidempuan	100561
+Itarsi	100574
+Grogol	100613
+Bendigo	100617
+Kallithea	100641
+Narita	100641
+Anyama	100653
+Glazov	100676
+Abu Kabir	100684
+Nandurbar	100703
+Itaguai	100752
+Luofeng	100774
+Jamalpur	100780
+Shahreza	100790
+El Progreso	100810
+Solikamsk	100812
+Oum el Bouaghi	100821
+Funchal	100847
+Navapolatsk	100885
+Elbasan	100903
+Coronel Fabriciano	100916
+Guarapari	100925
+Qinzhou	100996
+Ryazanskiy	101000
+Novyye Cheremushki	101000
+Cheremushki	101000
+Jolo	101002
+Ciudad Guzman	101010
+Guaiba	101024
+Mezhdurechensk	101026
+Urdaneta	101037
+Udgir	101064
+Mokopane	101090
+Tartu	101092
+Vanadzor	101098
+Daly City	101123
+Tonghae	101128
+Tokuyama	101133
+South Bend	101168
+Teofilo Otoni	101170
+Gillingham	101187
+Colatina	101190
+Lower Hutt	101194
+Chakwal	101200
+Medina Estates	101207
+Barretos	101220
+Mirialguda	101234
+Witten	101247
+Olomouc	101268
+Maladzyechna	101300
+Jagadhri	101300
+Dartmouth	101343
+Basildon	101362
+Seoni	101379
+Mustafakemalpasa	101412
+Argenteuil	101475
+Kansk	101502
+Malambo	101534
+Temapache	101558
+Assis	101597
+Szekesfehervar	101600
+Salihorsk	101614
+Dera Ismail Khan	101616
+Ibri	101640
+Parsabad	101661
+Delta	101668
+Bontang	101691
+Ternate	101731
+Hidalgo del Parral	101768
+Erie	101786
+Torrevieja	101792
+Gondal	101801
+Singkawang	101838
+Pulong Santa Cruz	101914
+Bethal	101919
+Shchukino	102000
+Brateyevo	102000
+Disuq	102037
+Sabratah	102038
+Laoag	102105
+Ferozepore	102130
+Inazawa	102130
+Ukhta	102187
+Birigui	102277
+Artem	102300
+Qianzhou	102332
+Marmagao	102345
+DrobetaTurnu Severin	102346
+Antioch	102372
+Tulancingo	102383
+Bemowo	102393
+Shahzadpur	102420
+Concepcion de La Vega	102426
+Flint	102434
+Curico	102438
+Wazirabad	102444
+Dhaulpur	102462
+Sagh	102528
+Lubango	102541
+Edison	102548
+St Helens	102555
+Chelmsford	102671
+Erlangen	102675
+Roxas City	102688
+Piatra Neamt	102688
+Belawan	102707
+Lafiagi	102779
+Khushab	102793
+Pushkino	102816
+Palma Soriano	102826
+Portmore	102861
+Qurayyat	102903
+Ciudad Delicias	102969
+Bogorodskoye	103000
+Oleksandriya	103000
+Rantauprapat	103009
+Everett	103019
+Hildesheim	103052
+IkereEkiti	103054
+Begusarai	103060
+Ghazipur	103095
+Kashipur	103138
+Velikiye Luki	103149
+Escuintla	103165
+Palm Bay	103190
+Esmeraldas	103206
+Cheltenham	103249
+Turgutlu	103292
+Akademicheskoe	103304
+Vinh Long	103314
+Nishio	103337
+Burbank	103340
+Queluz	103399
+Isehara	103401
+Las Margaritas	103403
+Phitsanulok	103427
+Heroica Guaymas	103449
+Murrieta	103466
+Prabumulih	103470
+Brandon	103483
+Nagda	103501
+Churu	103533
+Bilqas	103596
+Zhanaozen	103598
+Gardez	103601
+Tantoyuca	103610
+Male	103693
+Richmond	103701
+West Jordan	103712
+Hosur	103724
+Nkpor	103733
+Marzahn	103768
+Yuxi	103829
+Bagaha	103855
+Dolisie	103894
+Roorkee	103894
+Woking	103932
+Ed Damer	103941
+Enfield Town	103970
+Jishu	103988
+Kroonstad	103992
+Soyibug	104000
+Izmaylovo	104000
+Kiselevsk	104000
+Iwakuni	104004
+Abengourou	104020
+Matamoros	104024
+Green Bay	104057
+Yenakiyeve	104101
+Wuchuan	104168
+Billings	104170
+Kara	104207
+Bishoftu	104215
+Kot Addu	104217
+Pulandian	104277
+Lo Prado	104316
+Tandil	104325
+Yatsushiro	104341
+Zhezqazghan	104357
+High Point	104371
+Mostar	104518
+Depok	104527
+Wichita Falls	104553
+Al Faw	104569
+Badlapur	104636
+Gera	104659
+Jena	104712
+Douliu	104723
+Oldham	104782
+Baneh	104799
+Daxing	104904
+Moratalaz	104923
+Malinovka	105000
+Universal City	105000
+Barnala	105016
+Araguaina	105019
+Linhares	105075
+Cambridge	105162
+Jizan	105198
+Yevpatoriya	105223
+Thanh Pho Hoa Binh	105260
+Queenstown	105309
+Fairfield	105321
+Carlsbad	105328
+Nancy	105334
+Baraki	105402
+Tengzhou	105456
+Bhairab Bazar	105457
+Mariara	105486
+Fresnillo	105488
+Tanza	105510
+Ponnani	105512
+Fargo	105549
+Norwalk	105549
+Gresham	105594
+Idku	105599
+Lahad Datu	105622
+Anqiu	105665
+Nantou	105682
+Azare	105687
+Ain Beida	105765
+Suceava	105796
+Arjawinangun	105845
+Guaratingueta	105880
+Mati	105908
+Khurja	105909
+Xinghua	105918
+Derbent	105965
+Sydney	105968
+Ashqelon	105995
+Legnica	106033
+West Covina	106098
+Santa Cruz do Sul	106113
+Westminster	106114
+Launceston	106153
+Blackburn	106154
+Bergisch Gladbach	106184
+Novotroitsk	106186
+Gangawati	106250
+Namur	106284
+Pindiga	106322
+Buhe	106347
+Hwado	106358
+Longjiang	106384
+Arvada	106433
+Wilmington	106476
+Cikarang	106479
+Lowell	106519
+Coimbra	106582
+Fukayacho	106595
+Pueblo	106595
+Chittaurgarh	106710
+Rayong	106737
+Rochester	106769
+Lianran	106795
+Catia La Mar	106822
+Al Hawamidiyah	106841
+Ejido	106915
+Taungoo	106945
+Elista	106971
+Khemisset	106991
+Sutton Coldfield	107030
+Mitrovice	107045
+Crawley	107061
+Yen Vinh	107082
+Apucarana	107085
+Ilebo	107093
+Iida	107111
+Reus	107118
+Vicenza	107129
+As Suwayq	107143
+Bharatpur	107157
+Miami Gardens	107167
+Vasteras	107194
+Siegen	107242
+Koblenz	107319
+Shinyanga	107362
+Vitoria de Santo Antao	107383
+Obninsk	107392
+Sherpur	107419
+Poa	107432
+Koszalin	107450
+Araras	107463
+Alcobendas	107514
+Ramnicu Valcea	107558
+Shaping	107589
+Butterworth	107591
+Umm Qasr	107620
+Bandirma	107631
+Clearwater	107685
+Ji Parana	107697
+Ourense	107742
+Moers	107816
+Tajimi	107818
+Jalai Nur	107828
+Jalpaiguri	107832
+Thanh pho Bac Lieu	107911
+Jiangyin	107918
+Atbara	107930
+Kunshan	107986
+An Nuhud	108008
+Rockingham	108022
+Santa Cruz	108145
+Pingliang	108156
+Birnin Kebbi	108164
+Banyuwangi	108166
+Tadepallegudem	108167
+Elgin	108188
+Oktyabrskiy	108200
+Cabo Frio	108239
+Kyzyl	108240
+Nehe	108253
+Sohar	108274
+Dagenham	108368
+Santiago	108414
+Trincomalee	108420
+Baghlan	108449
+Mopti	108456
+Giron	108466
+Bansbaria	108474
+Enterprise	108481
+Columbia	108500
+Katumba	108558
+Madanapalle	108593
+Dharan Bazar	108600
+Uromi	108608
+Sawai Madhopur	108612
+Pemba	108737
+Ksar El Kebir	108753
+Murfreesboro	108755
+Kalisz	108759
+BoulogneBillancourt	108782
+Dehui	108818
+Iwatsuki	108833
+Franco da Rocha	108858
+Zhongxiang	108883
+LeninskKuznetsky	109023
+Komatsu	109045
+Matagalpa	109089
+Hulan	109104
+San Rafael	109163
+PortGentil	109163
+Livingstone	109203
+Tumbes	109223
+Sergiyev Posad	109252
+IjebuIgbo	109261
+Larache	109294
+Hoshangabad	109358
+Zhaotong	109400
+Colchester	109414
+Heihe	109427
+Phalaborwa	109468
+Arzamas	109479
+Ciudad Valles	109504
+Dongxing	109561
+Manchester	109565
+Taitung City	109584
+Catanduva	109612
+Tieli	109636
+Araruama	109637
+Inglewood	109673
+Kandi	109701
+Shilong	109733
+Lichinga	109839
+Seversk	109844
+Kecskemet	109847
+Ambur	109873
+Hailun	109881
+Linshui	109955
+Costa Mesa	109960
+Bataysk	109962
+Mizhou	109968
+Zliten	109972
+Mendip	110000
+Kufa	110000
+Vacoas	110000
+Ressano Garcia	110000
+Noyabrsk	110000
+Qingnian	110046
+Gabes	110075
+Garanhuns	110085
+Citeureup	110155
+Nelspruit	110159
+Bender	110175
+Kresek	110182
+Kiryu	110219
+Tauranga	110338
+Waterbury	110366
+Sultanpur	110368
+Delicias	110520
+Manzini	110537
+Yenangyaung	110553
+Caen	110624
+East Independence	110675
+Perpignan	110706
+Zhuji	110721
+Manzanillo	110735
+Hadejia	110753
+Bandare Anzali	110826
+Turhal	110884
+Encheng	110921
+Hikone	110925
+Norman	110925
+Varzea Paulista	110936
+Atibaia	110968
+Barsi	110983
+Dongtai	110988
+Nguru	111014
+Nsukka	111017
+Navadwip	111123
+Midland	111147
+Achalpur	111278
+Ciutat Vella	111290
+Araucaria	111302
+Mbouda	111320
+Santa Rosa	111424
+Mulhouse	111430
+Magelang	111461
+Ashoknagar Kalyangarh	111475
+Cileunyi	111476
+Masjed Soleyman	111510
+Resende	111514
+Daugavpils	111564
+Chhatarpur	111594
+Conselheiro Lafaiete	111596
+Lysychansk	111600
+Bangaon	111693
+Kandy	111701
+Suriapet	111729
+Quchan	111752
+Downey	111772
+Novokuybyshevsk	111800
+Zwolle	111805
+Iringa	111820
+Douma	111864
+Ribeirao Pires	111888
+Ca Mau	111894
+Beibei	112019
+Furth	112025
+Esuk Oron	112033
+Port Blair	112050
+Rewari	112079
+Carupano	112082
+Iguala de la Independencia	112106
+Pudukkottai	112118
+Mazyr	112137
+Chas	112141
+Mothihari	112144
+Apopa	112158
+Faridpur	112187
+Guanare	112286
+Kamalia	112426
+Kaiyuan	112462
+Innsbruck	112467
+Thanh Hoa	112473
+Provo	112488
+Satu Mare	112490
+Mojokerto	112557
+Berkeley	112580
+Shaowu	112585
+Reutlingen	112627
+Nefteyugansk	112632
+Chanduasi	112635
+Haikou	112644
+Rouen	112787
+Satara	112793
+Guangming	112819
+Vihari	112840
+Eastbourne	112906
+Guanabacoa	112964
+Alanya	112969
+Shchelkovo	113000
+North Peoria	113004
+Exeter	113118
+Kitami	113137
+Jhunjhunun	113193
+Praia	113364
+Luanshya	113365
+Denton	113383
+Chorzow	113430
+El Monte	113475
+Mishima	113479
+Nippes	113487
+Budapest XIII keruelet	113531
+Dumaguete	113541
+Jandira	113605
+Maba	113609
+Qianguo	113611
+Cuito	113624
+Pingshan	113631
+Wardha	113759
+Tobolsk	113800
+Offa	113830
+Maler Kotla	113840
+Botucatu	113862
+Laghouat	113872
+Ann Arbor	113934
+Villa Lugano	114000
+Hotan	114000
+OchakovoMatveyevskoye	114000
+Kankan	114009
+Erzincan	114027
+Siirt	114034
+Dharmavaram	114050
+Sawangan	114069
+Bergamo	114162
+Yuyao	114177
+Kingston	114195
+Pleiku	114225
+Pamanukan	114290
+Lansing	114297
+Balasore	114321
+Dunedin	114347
+Soc Trang	114453
+Coquitlam	114565
+Mary	114680
+Botosani	114783
+Mingshui	114858
+Balkh	114883
+Peoria	115007
+Tuguegarao City	115105
+Basti	115115
+Pouso Alegre	115201
+Bizerte	115268
+Toliara	115319
+Tianfu	115370
+Texcoco de Mora	115378
+Lengshuijiang	115399
+Okigwe	115499
+Baidyabati	115504
+NovoPeredelkino	115536
+Batang	115537
+Parla	115611
+Yelets	115688
+Guelph	115760
+Sri Jayewardenepura Kotte	115826
+Zoetermeer	115845
+Binzhou	115893
+Milpa Alta	115895
+Victorville	115903
+Cavite City	115932
+Pavlohrad	115932
+Vallejo	115942
+Ras alKhaimah	115949
+Schoneberg Bezirk	115976
+Noginsk	115979
+Taganskiy	116000
+Alchevsk	116000
+Sinop	116013
+Handa	116119
+Digos	116122
+Gudivada	116161
+Algeciras	116209
+Cherkessk	116224
+Springfield	116250
+Yakeshi	116284
+Berlin Schoeneberg	116286
+Nyiregyhaza	116298
+Dasha	116307
+Yelahanka	116447
+Santa Clara	116468
+MoncloaAravaca	116531
+Puno	116552
+Jaen	116557
+Taldykorgan	116558
+Varginha	116571
+Ahmadpur East	116579
+Pescara	116596
+Azamgarh	116644
+Simoes Filho	116662
+Brugge	116709
+Athens	116714
+Lausanne	116751
+Ordu	116788
+Independence	116830
+Hofu	116925
+Frisco	116989
+Pinhais	117000
+Khenchela	117000
+Rishra	117014
+Botad	117053
+Qingzhou	117056
+Kindia	117062
+Nkongsamba	117063
+Abilene	117063
+Cacak	117072
+Setubal	117110
+Remscheid	117118
+Calabozo	117132
+Khanna	117137
+Longjing	117185
+Ishinomaki	117233
+Kedungwuni	117249
+Pyin Oo Lwin	117303
+Newport	117326
+Panevezys	117395
+Evansville	117429
+Punta Arenas	117430
+Bremerhaven	117446
+Tunja	117479
+Tigwav	117504
+Surprise	117517
+Tebingtinggi	117530
+Anaco	117596
+Ciudad de Villa de Alvarez	117600
+Ikoma	117601
+Rotherham	117618
+Shunyi	117623
+Achinsk	117634
+Gemena	117639
+Jalingo	117757
+Loja	117796
+Tarnow	117799
+Sokode	117811
+Friedrichshain Bezirk	117829
+Patan	117863
+Uzhhorod	117878
+Nakhon Pathom	117927
+Troparevo	118000
+Buga	118004
+Morbi	118022
+Puning	118023
+Allentown	118032
+Jetpur	118068
+Ilobu	118089
+Bama	118121
+Torrejon de Ardoz	118162
+San Juan del Rio	118173
+Pita Kotte	118179
+Bandundu	118211
+Uppal Kalan	118259
+Malindi	118265
+Berdyansk	118284
+Beaumont	118296
+Chicacole	118299
+Maseru	118355
+Cubatao	118410
+Zielona Gora	118433
+Sepatan	118439
+Adilabad	118526
+Khlong Luang	118551
+Zacatecas	118562
+Rimini	118673
+Pleven	118675
+Kokubunji	118682
+Ain Oussera	118687
+Lhasa	118721
+Shimotoda	118731
+Thornton	118772
+Damoh	118776
+Roseville	118788
+San Jose	118807
+Reykjavik	118918
+Cagua	119033
+Settat	119082
+Carrollton	119097
+Siwan	119181
+Offenbach	119192
+Jau	119206
+Dordrecht	119260
+Toledo	119313
+Pforzheim	119313
+Lira	119323
+Nazilli	119370
+Quevedo	119436
+Silang	119475
+Modakeke	119529
+Monza	119618
+Bergedorf	119665
+TroisRivieres	119693
+Leiden	119713
+Santa Coloma de Gramenet	119717
+Jaranwala	119785
+Kairouan	119794
+Charlottenburg Bezirk	119857
+Maxixe	119868
+Santa Rita	119893
+Bottrop	119909
+Novoye Medvezhino	120000
+Bangil	120000
+Nabatiye et Tahta	120000
+Navojoa	120000
+Abbottabad	120000
+Solntsevo	120000
+OrekhovoZuyevo	120000
+Midoun	120000
+Charleston	120083
+Gracia	120087
+Gangapur	120115
+Perugia	120137
+Budapest XIV keruelet	120148
+Fernando de la Mora	120167
+Wloclawek	120339
+Cambridge	120372
+Karaman	120399
+Rawang	120447
+Ulm	120451
+Mufulira	120500
+Fengcheng	120514
+Toyokawa	120537
+Lafayette	120623
+Ingolstadt	120658
+Heilbronn	120733
+Nakhon Si Thammarat	120836
+Guntakal Junction	120964
+Xilin Hot	120965
+Zyuzino	121000
+Tobruk	121052
+Yaizu	121057
+Cachoeirinha	121084
+Coral Springs	121096
+Musoma	121119
+Olmaliq	121207
+North Stamford	121230
+Raigarh	121278
+Orizaba	121348
+Lianhe	121367
+Braga	121394
+Noda	121411
+San Juan	121430
+Ekibastuz	121470
+Naucalpan de Juarez	121470
+Chikmagalur	121484
+Fujinomiya	121515
+Payakumbuh	121572
+Vejalpur	121610
+Stavanger	121610
+Bern	121631
+Bhadreswar	121662
+Mataro	121722
+Batumi	121806
+Nalgonda	121826
+Nobeoka	121949
+Palwal	121965
+Zabol	121989
+Veshnyaki	122000
+Presnenskiy	122000
+San Pedro Garza Garcia	122009
+Durres	122034
+Miramar	122041
+Concord	122067
+Goettingen	122149
+Dibrugarh	122155
+Villa Canales	122194
+Chishtian Mandi	122199
+Barbacena	122211
+Aalborg	122219
+Tekirdag	122287
+My Tho	122310
+Bellevue	122363
+Amherst	122366
+Maastricht	122378
+Jiayuguan	122396
+Zhoucun	122402
+Xiulin	122411
+Palhoca	122423
+Recklinghausen	122438
+Beylikduezue	122452
+Brits	122497
+Virginia	122502
+Kisarazu	122524
+Puruliya	122533
+Ubon Ratchathani	122533
+Huangzhou	122563
+Hardoi	122635
+Stamford	122643
+Az Zubayr	122676
+Alagoinhas	122688
+Dam Dam	122719
+Pati	122785
+Dos Hermanas	122943
+Tsaritsyno	123000
+Minzhu	123018
+Niihama	123059
+Wolfsburg	123064
+Luoyang	123144
+Porto Seguro	123173
+Gagnoa	123184
+Bordj el Kiffan	123246
+Epworth	123250
+Indramayu	123263
+Palanpur	123294
+Ban Rangsit	123382
+Uruguaiana	123480
+Mohali	123484
+Hagonoy	123531
+Guelma	123590
+Lumajang	123626
+Ciamis	123637
+Potchefstroom	123669
+Budapest III keruelet	123723
+Thaton	123727
+Polokwane	123749
+Salvaleon de Higuey	123787
+Baoshan	123791
+Darjiling	123797
+Jiupu	123843
+Metz	123914
+Teresopolis	123979
+Rudnyy	124000
+Rustenburg	124064
+Laiwu	124108
+Orleans	124149
+Rajapalaiyam	124168
+Marand	124191
+Sao Jose dos Pinhais	124224
+Simi Valley	124237
+Lecheng	124268
+Targowek	124316
+Agadez	124324
+Gainesville	124354
+Timon	124427
+Gorzow Wielkopolski	124430
+Visalia	124442
+Kokshetau	124444
+Riobamba	124478
+Kashiharashi	124521
+Khairpur	124602
+Santa Tecla	124694
+Yushu	124736
+San Francisco de Macoris	124763
+Hartford	124775
+Sloviansk	124800
+Waco	124805
+Semnan	124826
+Huixquilucan	124846
+Gondia	124897
+Zamora	124916
+Suining	124924
+Padalarang	124946
+Elizabeth	124969
+Mandsaur	124988
+Willemstad	125000
+Balti	125000
+Tyoply Stan	125000
+Beppu	125065
+Bohicon	125092
+Braganca Paulista	125096
+Kelowna	125109
+Shahecheng	125132
+Orsha	125347
+Haimen	125427
+Los Angeles	125430
+Okinawa	125483
+Koronadal	125502
+Sorong	125535
+Ajlun	125557
+Tando Adam	125598
+Torbate Heydariyeh	125633
+Xiazhen	125667
+Watford	125707
+Salerno	125797
+Les Cayes	125799
+Navoiy	125800
+Gashua	125817
+Olathe	125872
+Huicheng	125919
+Pangkalpinang	125933
+Retiro	126058
+Paseh	126181
+Patos de Minas	126234
+Itapetininga	126243
+Rafah	126305
+Cedar Rapids	126326
+Macheng	126366
+Lambare	126377
+Al Jadid	126386
+Chinandega	126387
+Levis	126396
+Kolar	126441
+Songea	126449
+Anmore	126456
+Jombang	126465
+Edirne	126470
+Lalitpur	126475
+East Los Angeles	126496
+Sogamoso	126551
+Ueda	126606
+Bahawalnagar	126617
+Thousand Oaks	126683
+Bahawalnagar	126700
+Danshui	126701
+Pakpattan	126706
+Cadiz	126766
+Xichang	126787
+Villaverde	126802
+Neftekamsk	126805
+Khasavyurt	126829
+Klaten	126831
+Hathras	126882
+Rangkasbitung	126910
+Daska	126924
+Murom	126931
+Pakokku	126938
+Angren	126957
+Bettiah	127008
+Cuddapah	127010
+Sancti Spiritus	127069
+Isiro	127076
+Tipitapa	127153
+Surat Thani	127201
+Tando Allahyar	127202
+Jiangyou	127225
+Colima	127235
+Lafia	127236
+Amaigbo	127300
+Huaihua	127322
+XaiXai	127366
+Wau	127384
+Walbrzych	127431
+Topeka	127473
+Plock	127474
+Jequie	127475
+Sirajganj	127481
+Saida	127497
+Elblag	127558
+Worcester	127597
+Opole	127676
+Kusatsu	127680
+Uppsala	127734
+San Nicolas de los Arroyos	127742
+Titagarh	127751
+Xuanzhou	127758
+Ungaran	127812
+Divo	127867
+Muar	127897
+Killeen	127921
+OrekhovoBorisovo Severnoye	128000
+Ivanovskoye	128000
+Panvel	128046
+Asaka	128058
+Ramat Gan	128095
+Sirte	128123
+Serpukhov	128158
+Halisahar	128172
+Yavatmal	128175
+Manzanillo	128188
+Jirja	128250
+Gyor	128265
+Teluknaga	128275
+Al Manaqil	128297
+Jima	128306
+Sakakah	128332
+Khardah	128346
+El Eulma	128351
+Besancon	128426
+Novocheboksarsk	128468
+Cambridge	128488
+Hassan	128531
+Oulu	128618
+Kamyshin	128626
+Gloucester	128721
+Sinah	128776
+Idlib	128840
+Arish	128855
+MogiGaucu	128865
+Palo Negro	128875
+Satkhira	128918
+Bat Yam	128979
+San Cristobal de las Casas	128996
+Zyablikovo	129000
+Cadiz	129053
+Darwin	129062
+Udipi	129113
+Leiyang	129116
+Mino	129127
+Regensburg	129151
+Shahre Kord	129153
+Charallave	129182
+Bilbays	129211
+Nador	129260
+Columbia	129272
+Palopo	129273
+Copiapo	129280
+Tete	129316
+Andong	129319
+AciliaCastel FusanoOstia Antica	129362
+Ouargla	129402
+Sherbrooke	129447
+West Valley City	129480
+Daitocho	129521
+Deoria	129570
+Bimbo	129655
+Sterling Heights	129699
+Tokat	129702
+Navoiy	129725
+Mandi Bahauddin	129733
+New Haven	129779
+Baidoa	129839
+McAllen	129877
+Gyeongsansi	129903
+Kisaran	129911
+Wuda	129922
+Dehri	129938
+ShangriLa	130000
+Mostaganem	130000
+Sabha	130000
+Tychy	130000
+Ramenki	130000
+Syevyerodonetsk	130000
+Manzanillo	130035
+Relizane	130094
+Masaya	130113
+Sinnar	130122
+Jaragua do Sul	130130
+Songjiang	130218
+La Ceiba	130218
+Quilpue	130263
+Girardot City	130289
+Jiazi	130298
+Nablus	130326
+Florencia	130337
+Maicao	130348
+Dongyang	130387
+Petrogradka	130455
+Nikopol	130500
+Moga	130549
+Siauliai	130587
+Dabrowa Gornicza	130601
+Abohar	130603
+Garza Garcia	130646
+Isesaki	130692
+Shuangcheng	130710
+Al Bab	130745
+Dazhou	130749
+Pinsk	130777
+Beawar	130777
+Matsubara	130855
+Sapucaia	130937
+Buzau	130954
+Novomoskovsk	130982
+Miyakonojo	130994
+Pilibhit	131008
+Lashio	131016
+McKinney	131117
+Iranshahr	131232
+Hepo	131238
+Toowoomba	131258
+Raniganj	131261
+Gonbade Kavus	131416
+Villeurbanne	131445
+Martapura	131449
+Majie	131696
+Kadoma	131727
+Kishangarh	131749
+Abiko	131771
+Punto Fijo	131784
+Bulaon	131818
+Dawukou	131880
+Shahrud	131889
+Godhra	131913
+Omuta	131974
+St Catharines	131989
+Muricay	132094
+Pindamonhangaba	132218
+Zalantun	132224
+Dimitrovgrad	132226
+Quetzaltenango	132230
+Kakamigahara	132241
+Tlemcen	132341
+Cerro	132351
+Blitar	132416
+Ankang	132654
+Nzerekore	132728
+Palakkad	132728
+Hoofddorp	132734
+Kislovodsk	132771
+Miandoab	132819
+Shillong	132842
+Sandacho	132858
+Fujieda	132859
+Tondabayashicho	132873
+Puqi	132891
+Clarksville	132929
+Ibarra	132977
+Idfu	133000
+Hawassa	133097
+Talisay	133148
+Birganj	133238
+Okrika	133271
+Reggio nellEmilia	133296
+Hindupur	133298
+Valdivia	133419
+Bhuj	133459
+Margilon	133490
+Gonda City	133583
+Pervouralsk	133600
+Hajipur	133606
+Randfontein	133654
+Wuerzburg	133731
+Singaraja	133784
+Thanh Pho Thai Nguyen	133877
+Ebetsu	133953
+Inegol	133959
+Bankura	133966
+Dali	134040
+Warren	134056
+Slough	134072
+Abakaliki	134102
+Adiwerna	134188
+Leogane	134190
+Ikirun	134240
+Seto	134246
+Leon	134305
+Srodmiescie	134306
+San Mateo	134327
+Nevinnomyssk	134345
+Ajdabiya	134358
+Tuxpan de Rodriguez Cano	134394
+Cordoba	134403
+Chetumal	134412
+Rodriguez	134432
+sHertogenbosch	134520
+Marbella	134623
+Zama	134671
+El Oued	134699
+Baturaja	134759
+Okap	134815
+Cartago	134827
+Mandya	134845
+Chhindwara	134847
+Bielany	134854
+Jayapura	134895
+Hanam	134902
+Hinthada	134947
+Cajamarca	135000
+Fullerton	135161
+Moundou	135167
+Tyre	135204
+Robertsonpet	135218
+Cary	135234
+Rabak	135281
+Shiqiao	135308
+Pyay	135308
+Buguma	135404
+Cam Pha Mines	135477
+West Bromwich	135618
+Baliuag	135679
+Kindu	135698
+Kushtia	135724
+Queimados	135741
+Jagdaqi	135760
+Osorno	135773
+Tasek Glugor	135786
+Dimapur	135860
+Lleida	135919
+Perovo	136000
+Dese	136056
+Gejiu	136135
+Mahbubnagar	136135
+Savannah	136286
+Orange	136416
+Van Nuys	136443
+Sao Caetano do Sul	136453
+Podgorica	136473
+Kabankalan	136483
+Baia Mare	136553
+Shizuishan	136570
+Apeldoorn	136670
+Igboho	136764
+Dawei	136783
+Funtua	136811
+San Juan Sacatepequez	136886
+Kanchrapara	136954
+Foggia	137032
+Odintsovo	137041
+Hami	137072
+Jiashan	137112
+Pasadena	137122
+Irakleion	137154
+SaintDenis	137195
+Negombo	137223
+Bhisho	137287
+Bitung	137364
+Castanhal	137406
+Hampton	137436
+Jieshi	137444
+Musashino	137479
+Dikirnis	137542
+Itu	137586
+Obuasi	137856
+Jacmel	137966
+Baia Mare	137976
+Parnaiba	138008
+Anand	138009
+Telford	138241
+Tiruvannamalai	138243
+Thanesar	138279
+Ejigbo	138357
+Chaohu	138463
+Metairie	138481
+Chitradurga	138587
+Salamanca	138614
+Sa Pa	138622
+ClermontFerrand	138681
+Fuyu	138704
+SekondiTakoradi	138872
+Porbandar	138872
+Kolpino	138979
+Brighton	139001
+Weru	139004
+Huadian	139047
+Budapest XI keruelet	139049
+Stockport	139052
+Choloma	139100
+Kariya	139159
+Sabah as Salim	139163
+Sidoarjo	139189
+San Luis Rio Colorado	139254
+Kumbakonam	139264
+Habra	139297
+Man	139341
+Altay	139341
+Siem Reap	139458
+Gbongan	139485
+Haldwani	139497
+Gojra	139726
+Dadu	139784
+Korolev	139798
+Mesquite	139824
+Amersfoort	139914
+Alexandria	139966
+Peristeri	139981
+Shanhaiguan	140000
+Tutamandahostel	140000
+Chamartin	140000
+SarriaSant Gervasi	140000
+Parepare	140000
+Ayacucho	140033
+Vidisha	140045
+Hazaribag	140063
+Sunnyvale	140081
+Zaanstad	140085
+Mpumalanga	140121
+Peterborough	140141
+Lakhimpur	140223
+Tarragona	140323
+Darmstadt	140385
+Tirmiz	140385
+Almetyevsk	140437
+Kaithal	140604
+Los Teques	140617
+Nigel	140644
+Hollywood	140768
+Norilsk	140800
+Kampung Sungai Ara	140849
+Comodoro Rivadavia	140850
+Gongzhuling	140909
+Ilam	140940
+Ghazni	141000
+Paranagua	141013
+Rijeka	141172
+Limoges	141176
+Usera	141189
+Potosi	141251
+Lauro de Freitas	141280
+Ciudad del Carmen	141308
+Bolton	141331
+Yonago	141368
+Ibirite	141374
+Balurghat	141404
+Petapa	141455
+Dayton	141527
+Tours	141621
+Zheleznodorozhnyy	141648
+Arnhem	141674
+Myingyan	141713
+eMbalenhle	141741
+Naperville	141853
+Taza	141890
+Yuen Long Kau Hui	141900
+Jieshou	141993
+Chertanovo Yuzhnoye	142000
+Ciego de Avila	142027
+Kimberley	142089
+Paderborn	142161
+Jinhua	142206
+Nawabganj	142361
+Khanpur	142426
+Tuzla	142486
+Metairie Terrace	142489
+Mallawi	142504
+Tanjungbalai	142506
+Rybnik	142510
+Sant Andreu de Palomar	142598
+Khimki	142618
+Middlesbrough	142707
+Pyatigorsk	142865
+Bhimavaram	142967
+Lakewood	142980
+Novyye Kuzminki	143000
+Kuzminki	143000
+Cape Coast	143015
+Macae	143029
+Calama	143084
+Amiens	143086
+Blackpool	143101
+Cabo	143105
+Kenema	143137
+Heidelberg	143345
+Bechar	143382
+Stara Zagora	143431
+Luziania	143601
+Marawi City	143627
+Saguenay	143692
+Acarigua	143704
+Urayasu	143758
+Dumai	143760
+Ipswich	143767
+Otaru	143792
+Escondido	143911
+Kafr ash Shaykh	143970
+Fort Collins	143986
+Wola	143996
+Tizi Ouzou	144000
+Biryulevo	144000
+OrekhovoBorisovo	144000
+Teshi Old Town	144013
+Goma	144124
+Hayward	144186
+Gorontalo	144195
+York	144202
+Meizhou	144212
+Bridgeport	144229
+Jinchang	144363
+Elektrostal	144387
+Kumba	144413
+Le Mans	144515
+Leon	144538
+Larisa	144651
+Acheng	144665
+Ciudad Acuna	144669
+Sanya	144753
+Sikasso	144786
+Khujand	144865
+Brest	144899
+Spanish Town	145018
+Syracuse	145170
+Concordia	145210
+Potsdam	145292
+Tabora	145292
+Torrance	145438
+Taishan	145440
+Batala	145468
+Yamaguchi	145515
+Cikampek	145620
+Kampung Pasir Gudang Baru	145639
+Saharsa	145764
+Kansas City	145786
+Orkney	145801
+Maraba	145860
+Xinji	145911
+Krishnanagar	145926
+Odense	145931
+Chamberi	145934
+Hanzhong	145986
+Boise	145987
+Puerto Plata	146000
+Qujing	146015
+Gweru	146073
+Afyonkarahisar	146136
+Cuautla Morelos	146178
+Ruda Slaska	146189
+Paterson	146199
+Parma	146299
+Pocos de Caldas	146588
+SaintQuentinenYvelines	146598
+Matanzas	146733
+Cam Ranh	146771
+Ambala	146787
+AixenProvence	146821
+Gulu	146858
+TarguMures	146863
+Nakhodka	146920
+Kalemie	146974
+Buon Ma Thuot	146975
+Manama	147074
+Trondheim	147139
+Erode	147270
+Nilopolis	147281
+Joliet	147433
+Aktau	147443
+Kragujevac	147473
+Bezirk Kreuzberg	147532
+El Jadida	147549
+Khon Kaen	147579
+Haarlem	147590
+As Salimiyah	147649
+Mestre	147662
+Ursynow	147676
+Rafsanjan	147680
+Kolomna	147690
+Medea	147707
+Salamanca	147707
+Huanuco	147959
+Honggang	147977
+East Hampton	147993
+Jijel	148000
+Astanajapura	148047
+Thanh Pho Ha Long	148066
+Caxias	148072
+Sujiatun	148113
+Palangkaraya	148139
+Barakpur	148174
+Nimes	148236
+Lubuklinggau	148243
+El Limon	148247
+Badajoz	148334
+Moriguchi	148350
+Chizhou	148375
+Gyumri	148381
+Valencia	148456
+Yulin	148485
+Arar	148540
+Chingola	148564
+Arganzuela	148797
+Huelva	148806
+Dunhua	148844
+Prenzlauer Berg Bezirk	148878
+Huddersfield	149017
+Pasadena	149043
+Pomona	149058
+Cagliari	149257
+Ome	149323
+Metro	149526
+City Center	149718
+Dijon	149782
+Shantipur	149983
+Mascara	150000
+Malkajgiri	150000
+Gimcheon	150000
+Zhulebino	150000
+Dili	150000
+Mossel Bay	150000
+Vryheid	150012
+Poole	150092
+Balashikha	150103
+Urganch	150110
+Kiziltepe	150174
+Piedras Negras	150178
+Purwodadi	150206
+Bago City	150250
+Salzburg	150269
+Parnamirim	150343
+Virar	150357
+Chillan	150396
+Salinas	150441
+Battambang	150444
+Huangyan	150448
+Serilingampalle	150525
+Higashimurayamashi	150556
+Ogaki	150570
+La Laguna	150661
+Loudi	150684
+RajNandgaon	150755
+Gaomi	150793
+Guarapuava	150850
+Minatitlan	150895
+Soreang	150932
+El Tigre	150999
+Komaki	151025
+Benguela	151226
+Saqqez	151237
+Qingyuan	151287
+Tonk	151331
+Kohat	151427
+Dundee	151592
+Itapecerica da Serra	151605
+Bintulu	151617
+Cholula	151667
+Abbotsford	151683
+Guacara	151752
+Sibiu	151894
+Bao Loc	151915
+Strogino	152000
+Morena	152004
+Longfeng	152074
+Ota	152104
+Logrono	152107
+Yichun	152169
+Deyang	152194
+Kerch	152195
+Can Giuoc	152200
+Aksaray	152201
+Banda	152218
+Corona	152374
+Silchar	152393
+Songnim	152425
+Chenghua	152453
+Neuss	152457
+Baqubah	152550
+Weihai	152595
+Ponce	152634
+Hamilton	152641
+Jizzax	152642
+Palmdale	152750
+Usak	152862
+Rockford	152871
+As Samawah	152890
+Rondonopolis	152912
+Dingzhou	152934
+Linhai	152937
+Dinapore	152940
+Elk Grove	153015
+Fyzabad	153047
+Springfield	153060
+Cairns	153075
+Chincha Alta	153076
+Medinipur	153349
+Nova Friburgo	153361
+Bharuch	153528
+Yangchun	153547
+Boshan	153596
+Bahadurgarh	153613
+Angra dos Reis	153635
+Enschede	153655
+Hafizabad	153656
+Guna	153689
+Sanshui	153714
+Rio Cuarto	153757
+Livorno	153773
+Alandur	153775
+Sioux Falls	153888
+Gondar	153914
+Limassol	154000
+Xinzhou	154003
+East Chattanooga	154024
+San Cristobal	154040
+Peoria	154065
+Tottori	154098
+Viransehir	154163
+Kovrov	154224
+Pasarkemis	154234
+Djelfa	154265
+Cape Coral	154305
+Ambato	154369
+Bene Beraq	154400
+Zhaodong	154406
+Gandajika	154425
+Leshan	154477
+La Serena	154521
+Oxford	154566
+Butembo	154621
+Salem	154637
+Lyubertsy	154650
+Mahajanga	154657
+Middelburg	154706
+Pembroke Pines	154750
+Guangshui	154771
+Beipiao	154999
+Lianghu	155000
+Tetuan de las Victorias	155000
+Kanchipuram	155029
+Port Louis	155226
+Kyonju	155237
+Guyong	155391
+Swindon	155432
+Ilheus	155499
+Kisi	155510
+Zemun	155591
+Salamanca	155619
+Hanumangarh	155687
+Seogwipo	155691
+Itajai	155716
+Yichun	155762
+Tema	155782
+Kumagaya	155813
+Malabo	155963
+Katsuta	155968
+Nagareyama	156000
+Fes al Bali	156000
+Lampang	156139
+Eugene	156185
+Batu Pahat	156236
+Ruse	156238
+Lancaster	156633
+Pecs	156649
+Sihanoukville	156691
+Osogbo	156694
+Souk Ahras	156745
+Matsue	156811
+HitachiNaka	156811
+Westonaria	156831
+Shikarpur	156901
+Toledo	156916
+Moshi	156959
+Tiraspolul	157000
+Nanpiao	157044
+Ussuriysk	157068
+Pallavaram	157145
+Perbaungan	157174
+Laventille	157258
+San Blas	157367
+Talkha	157737
+Greater Sudbury	157857
+Admiralteisky	157897
+Sunggal	157914
+Sobral	157996
+Golyanovo	158000
+Melitopol	158000
+Centro Habana	158151
+Long Xuyen	158153
+Orai	158265
+Barreiras	158292
+Huzhou	158320
+El Achir	158333
+Tempe Junction	158368
+Rzeszow	158382
+Maykop	158451
+Samarra	158508
+Grenoble	158552
+Cuddalore	158569
+Pasuruan	158600
+Jaigaon	158664
+Nijmegen	158732
+Modena	158886
+Osan	158978
+KhoroshevoMnevniki	159000
+Bibirevo	159000
+Oldenburg	159218
+Tarija	159269
+San Miguel del Padron	159273
+Lawang	159380
+Zhicheng	159383
+Bawshar	159487
+Springfield	159498
+Ashikaga	159671
+Skudai	159733
+Ziguinchor	159778
+Salavat	159893
+Oyama	159936
+Iskenderun	159965
+Puerto Montt	160054
+Dhamar	160114
+Taunggyi	160115
+Chapeco	160157
+Jamuria	160242
+Mejicanos	160317
+Xiaogan	160437
+Hebron	160470
+Kawanishi	160520
+Mytishchi	160542
+Phan Thiet	160652
+La Gi	160652
+Malakal	160765
+Sullana	160789
+Sayama	160843
+Rubtsovsk	161065
+Madhyamgram	161126
+Jind	161260
+Coquimbo	161317
+Budaun	161555
+Hortaleza	161661
+Unnao	161671
+Sapele	161686
+Tempe	161719
+Vancouver	161791
+San Miguel	161880
+Kunduz	161902
+Criciuma	161954
+Suleja	162135
+Dourados	162202
+Jiutepec	162427
+Mahabad	162434
+Gadag	162569
+La Rioja	162620
+Skikda	162702
+Leverkusen	162738
+Sambalpur	162887
+Anbu	162964
+Geneina	162981
+Envigado	163007
+Aydin	163022
+Salalah	163140
+Bueyuekcekmece	163140
+Ludwigshafen am Rhein	163196
+Tongzhou	163326
+Veraval	163326
+SouthendonSea	163377
+Tsu	163461
+Maradi	163487
+Sidon	163554
+Bournemouth	163600
+Adoni	163631
+Piraeus	163688
+Unaizah	163729
+Parakou	163753
+Vinh	163759
+Bhadravati	163903
+Ontario	163924
+Nossa Senhora do Socorro	163993
+Chalco de Diaz Covarrubias	163996
+Barra Mansa	164052
+Jhelum	164080
+Bejaia	164103
+Sousse	164123
+Nazran	164131
+Inisa	164161
+Pilsen	164180
+Hawalli	164212
+Shivpuri	164215
+Muridke	164246
+Kigoma	164268
+Fergana	164322
+Solingen	164359
+Burlington	164415
+Zenica	164423
+Sitapur	164435
+Basel	164488
+Port Saint Lucie	164603
+Lages	164676
+Serang	164767
+Loni	164810
+Fendou	164844
+Szeged	164883
+Banjaran	164952
+Nou Barris	164981
+Jiaozhou	165026
+Muzaffargarh	165192
+Esmeraldas	165216
+Saga	165236
+Chilpancingo de los Bravos	165250
+Rancho Cucamonga	165269
+Nandyal	165337
+Bandare Bushehr	165377
+Tulua	165501
+Fort Lauderdale	165521
+Oakville	165697
+Shanwei	165699
+Holon	165787
+Khobar	165799
+Ulanhot	165846
+Kamakura	166016
+Gaozhou	166069
+Ocumare del Tuy	166072
+Gandhidham	166388
+Beni Mellal	166399
+Osnabrueck	166462
+Fatehpur	166480
+Dasoguz	166500
+Fuling	166507
+Arapiraca	166562
+Novocherkassk	166974
+Banha	167029
+Oceanside	167086
+Plumbon	167105
+Getafe	167164
+Fianarantsoa	167227
+Abakan	167289
+Korhogo	167359
+Miass	167500
+IjeroEkiti	167632
+Hollywood	167664
+Pitesti	167669
+Khouribga	167673
+Breda	167673
+Chattanooga	167674
+Volgodonsk	167731
+Awka	167738
+Berezniki	167748
+Jingmen	167750
+Eloy Alfaro	167784
+Santa Rosa	167815
+Chirchiq	167842
+Jamalpur	167900
+Ferraz de Vasconcelos	167900
+Ech Chettia	167955
+Alcorcon	167967
+Patra	168034
+Angers	168279
+Bordj Bou Arreridj	168346
+Araraquara	168468
+Jabalya	168568
+Toulon	168701
+Baranovichi	168772
+Bahir Dar	168899
+Arad	169065
+Jaffna	169102
+Reggio Calabria	169140
+Jaunpur	169572
+Laiyang	169594
+Albacete	169716
+Kluang	169828
+HortaGuinardo	169920
+Fuyang	170023
+Aracatuba	170024
+Ingraj Bazar	170039
+Takaoka	170077
+Raiganj	170252
+Portoviejo	170326
+Uvira	170391
+Carolina	170404
+Khammam	170503
+Jacobabad	170588
+Temirtau	170600
+Haldia	170695
+Puri	170841
+Swansea	170883
+Garden Grove	170883
+Kulim	170889
+Muelheim Ruhr	171000
+Phra Pradaeng	171333
+Bacau	171396
+Dongling	171454
+Prizren	171464
+La Paz	171485
+Bida	171656
+Nanping	171674
+Netanya	171676
+Hino	171777
+Francisco Morato	171790
+Olsztyn	171803
+Lyublino	172000
+Herne	172108
+Walsall	172141
+Kaolack	172305
+Weinan	172321
+Miskolc	172637
+Salatiga	172645
+Licheng	172775
+Ongole	172872
+Metepec	172982
+Midrand	173009
+Bata	173046
+Khan Yunis	173183
+East New York	173198
+Myeik	173298
+Overland Park	173372
+Shimla	173503
+Jackson	173514
+San Pablo de las Salinas	173557
+Cuajimalpa	173625
+Kramatorsk	173700
+Ube	173733
+Obihiro	173890
+Puerto Cabello	174000
+Bhind	174035
+Cikupa	174041
+Bozhou	174140
+Hadano	174281
+Pathankot	174306
+Bo	174354
+Poza Rica de Hidalgo	174526
+Pamulang	174557
+George	174582
+Tomakomai	174806
+Cotia	174828
+Naga	174931
+Hirosaki	174972
+Brownsville	175023
+Jiutai	175115
+Siverek	175341
+Mzuzu	175345
+Khvoy	175370
+Grand Prairie	175396
+Saveh	175533
+Tsukuba	175589
+Bella Vista	175683
+Xindi	175761
+Turku	175945
+SaintLouis	176000
+Zhenzhou	176006
+Regina	176183
+Amroha	176253
+SaintEtienne	176280
+Split	176314
+Santa Clarita	176320
+Almere Stad	176432
+YuzhnoSakhalinsk	176484
+BielskoBiala	176515
+Malayer	176573
+Santa Ana	176661
+Alleppey	176783
+Hugli	177005
+Vellore	177081
+Loum	177429
+Meiktila	177442
+SantsMontjuic	177636
+Norwich	177636
+Ar Raqqah	177636
+Sittwe	177743
+Proddatur	177797
+Jingzhou	177878
+Sunderland	177965
+Habana del Este	178041
+Providence	178042
+Kutaisi	178338
+Spring Valley	178395
+Anjo	178402
+Chlef	178616
+Saki	178677
+Kamirenjaku	178739
+Amadora	178858
+Knoxville	178874
+Tiaret	178915
+Si Racha	178916
+Klerksdorp	178921
+Burgos	178966
+Chenzhou	179038
+Qianjiang	179079
+Ila Orangun	179192
+Vizianagaram	179358
+Podolsk	179400
+Cotabato	179433
+Sayibage	179465
+Legaspi	179481
+Xianning	179494
+Passo Fundo	179529
+Dos Quebradas	179583
+Varamin	179603
+Surendranagar	179628
+Indaiatuba	179911
+Yangju	179923
+Atyrau	180000
+Yasenevo	180000
+Castello de la Plana	180005
+Huntsville	180105
+Matadi	180109
+Tangail	180144
+Rio Claro	180147
+Dodoma	180541
+Baharampur	180547
+Kangneung	180611
+Chandannagar	180623
+Malacca	180671
+Newport News	180719
+Worcester	181045
+Taranto	181082
+Linz	181162
+Groningen	181194
+Wadi as Sir	181212
+Shangqiu	181218
+Saarbruecken	181227
+Anda	181271
+Tallahassee	181376
+Guarenas	181612
+Sirsa	181639
+Probolinggo	181656
+Prato	181820
+Richmond	182000
+Monywa	182011
+Barrie	182041
+Bahraigh	182218
+Carletonville	182304
+Biratnagar	182324
+Blida	182447
+Itaborai	182498
+KamenskUralskiy	182500
+Sakura	182549
+Cua	182558
+Liege	182597
+Santander	182700
+Khandwa	182841
+Mitakashi	182901
+Pak Kret	182926
+Bhusaval	183001
+Lembang	183130
+Manta	183166
+Patan	183310
+Ellore	183387
+Corum	183418
+CergyPontoise	183430
+Kushiro	183612
+Zaozhuang	183665
+Aberdeen	183790
+Sujangarh	183808
+Baishan	183880
+Burewala	183915
+Tarlac City	183930
+Geneve	183981
+San Luis	183982
+Quanzhou	184143
+Pemalang	184149
+Mbandaka	184185
+Mutare	184205
+Junagadh	184447
+Milton Keynes	184506
+Zaoyang	184509
+Brescia	184826
+Meycauayan	184839
+Mainz	184997
+Kutahya	185008
+Moratuwa	185031
+Jamaame	185270
+Hamm	185327
+San Sebastian	185357
+Dun Laoghaire	185400
+Richmond Hill	185541
+Singrauli	185580
+Nogales	185882
+Le Havre	185972
+Arica	185999
+AdDamazin	186051
+Leganes	186066
+Haridwar	186079
+Madiun	186099
+Zawiya	186123
+Antsirabe	186253
+Hitachi	186307
+Shibin al Kawm	186345
+Springs	186394
+Raebareli	186433
+Salt Lake City	186440
+Beersheba	186600
+Cienfuegos	186644
+Pabna	186781
+Pagadian	186852
+Pinar del Rio	186990
+Kikwit	186991
+Cachoeiro de Itapemirim	187019
+Trieste	187056
+Puerto Vallarta	187134
+Oxnard Shores	187235
+PetropavlovskKamchatsky	187282
+Qoqon	187477
+Sutton	187600
+Mohammedia	187708
+Rio Grande	187838
+Praga Poludnie	187845
+Kultali	187942
+Santa Barbara dOeste	188000
+Grand Rapids	188040
+Mabalacat City	188050
+Baiyin	188533
+Boyeros	188593
+Donghai	188602
+Cibinong	188663
+Labuan Bajo	188724
+Camacari	188758
+Almeria	188810
+San Fernando del Valle de Catamarca	188812
+Quelimane	188964
+Kabwe	188979
+Wanxian	188980
+Santarem	189047
+Izumi	189085
+Panalanoy	189090
+MweneDitu	189177
+Bytom	189186
+Syzran	189338
+Sunrise Manor	189372
+Bani Suwayf	189624
+Sadiqabad	189876
+Columbus	189885
+Huntington Beach	189992
+Kofu	190000
+Paarl	190000
+Vantaa	190058
+IseEkiti	190063
+Al Fallujah	190159
+Cork	190384
+Zoucheng	190537
+Preston	190687
+Amarillo	190695
+Bhiwani	190855
+Ormoc	191200
+Zlatoust	191366
+Barrancabermeja	191403
+Curug	191406
+Zinder	191424
+Suzuka	191477
+Haicheng	191651
+Hat Yai	191696
+Glendale	191719
+Sidi Bel Abbes	191769
+Humen	191891
+Guatire	191903
+Bojnurd	192041
+Zabrze	192177
+Klaipeda	192307
+Newcastle upon Tyne	192382
+Par Naogaon	192464
+Tanjungpinang	192493
+Katihar	192555
+Bayamo	192632
+Hyesansi	192680
+Ciudad Madero	192736
+Machilipatnam	192827
+Uji	192925
+Moreno Valley	193365
+Thanh Pho Nam Dinh	193499
+Itami	193524
+Little Rock	193524
+Maracanau	193529
+Ezhou	193652
+Luton	193669
+Basaksehir	193750
+Divinopolis	193832
+Parung	193898
+Nnewi	193987
+Soledad Diez Gutierrez	194006
+Portsmouth	194150
+Severodvinsk	194292
+Nangloi Jat	194363
+Kassel	194501
+Yamoussoukro	194530
+Petrolina	194650
+Kendari	195006
+Mobile	195111
+Xinhui	195129
+NishiTokyoshi	195164
+Coro	195227
+Gurisi	195236
+Nagaoka	195318
+Monclova	195764
+Murwara	195856
+Burgas	195966
+Yonkers	195976
+Ghandinagar	195985
+Engels	196011
+Americana	196022
+Fontana	196069
+Sambhal	196109
+Townsville	196219
+Icheonsi	196230
+Palmas	196272
+Laayoune  El Aaiun	196331
+Reims	196565
+Izmit	196571
+Kure	196624
+Vientiane	196731
+SanPedro	196751
+Birjand	196982
+Da Lat	197000
+Northampton	197322
+Gurgaon	197340
+Talca	197479
+Mentougou	197772
+Fuenlabrada	197836
+Hospet	197846
+Aurora	197899
+Oxnard	197899
+Tapachula	197961
+Machala	198123
+Sibu	198239
+Rostock	198293
+Tacoma	198397
+Kaiyuan	198423
+Purnia	198453
+Pamplona	198491
+Capiata	198553
+Bulandshahr	198612
+Malolos	198748
+Changji	198776
+Gliwice	198835
+Saskatoon	198958
+Hagen	198972
+Dudley	199059
+Akron	199110
+Bila Tserkva	199163
+Shreveport	199311
+Amol	199382
+Saidpur	199422
+Kamoke	199531
+Armavir	199548
+Balakovo	199572
+Tilburg	199613
+Sikar	199932
+Sao Jose	200000
+Ladner	200000
+Petah Tiqwa	200000
+Thika	200000
+Osh	200000
+Oral	200000
+Taldyqorghan	200000
+Az Zawiyah	200000
+Pokhara	200000
+Shahkot	200000
+Severnyy	200000
+Charleroi	200132
+Yanbu	200161
+Ugep	200276
+Jalalabad	200331
+Santo Domingo de los Colorados	200421
+Nicosia	200452
+Fayetteville	200564
+Dindigul	200797
+Cabimas	200818
+Petropavl	200920
+Chiang Mai	200952
+Modesto	201165
+La Pintana	201178
+Sete Lagoas	201334
+Rengasdengklok	201463
+Chapra	201597
+Itapevi	201748
+Chiniot	201781
+Al Khums	201943
+Yuncheng	201950
+Pskov	201990
+Mossoro	202005
+Nadiad	202067
+Cileungsir	202190
+Barisal	202242
+Linxia Chengguanzhen	202402
+Harburg	202571
+Corlu	202578
+Yiyang	202608
+Tampere	202687
+Burhanpur	202695
+Babol	202796
+Burnaby	202799
+Osmaniye	202837
+Achiaman	202932
+Odawara	203035
+Vasylevsky Ostrov	203058
+Edea	203149
+Monghyr	203163
+North Glendale	203201
+Erfurt	203254
+Agartala	203264
+Des Moines	203433
+Daqing	203488
+Bayamon	203499
+Hortolandia	203533
+Las Tunas	203684
+Padova	203725
+Bidar	204071
+Debrecen	204124
+Joetsu	204137
+Secunderabad	204182
+IvanoFrankivsk	204200
+Richmond	204214
+Numazu	204318
+Gaoping	204368
+Alcala de Henares	204574
+Sao Carlos	205035
+Suzhou	205130
+Campeche	205212
+Kishiwada	205561
+Itabuna	205660
+Montgomery	205764
+Buenavista	206081
+Dinajpur	206234
+Toamasina	206373
+Mostoles	206478
+Sabadell	206493
+Annaba	206570
+Oradea	206614
+Sumedang Utara	206746
+Kasukabe	206915
+Ciampea	207212
+Jerez de la Frontera	207532
+San Pablo	207577
+Arlington	207627
+Sirjan	207645
+Ciputat	207858
+North Shore	207865
+Lobito	207932
+Waitakere	208100
+Hangu	208369
+Gaborone	208411
+La Romana	208437
+Gilbert	208453
+Rewa	208461
+Kielce	208598
+Oruro	208684
+Torun	208717
+Nakhon Ratchasima	208781
+Spokane	208916
+Yamunanagar	208931
+IjebuOde	209175
+Sao Leopoldo	209229
+Rennes	209375
+Sohag	209419
+Sanming	209444
+Presidente Prudente	209502
+Kanggyesi	209530
+Pematangsiantar	209614
+Eindhoven	209620
+Vung Tau	209683
+Chuncheon	209746
+San Bernardino	209924
+Bogra	210000
+Kostanay	210000
+Antakya	210000
+Arroyo Naranjo	210053
+Arroyo Naranjo	210053
+Pali	210103
+Qui Nhon	210338
+Daliang	210411
+Rochester	210565
+Matsumoto	210667
+Tarhuna	210697
+Abha	210886
+Terrassa	210941
+Hailar	211066
+Kirikkale	211138
+Esenyurt	211330
+Cartagena	211996
+Sepang	212050
+Luebeck	212207
+Marilia	212218
+Birmingham	212237
+Lipa City	212287
+Bukit Mertajam	212329
+Mokotow	212670
+Rancagua	212695
+Loa Janan	212816
+Chofugaoka	212977
+Jacarei	213110
+Bukan	213331
+Guangyuan	213365
+Nazarabad	213388
+Braila	213569
+Bergen	213585
+Lutsk	213661
+Nagercoil	213858
+Nazret	213995
+Fremont	214089
+Taboao da Serra	214523
+Shagamu	214558
+Los Mochis	214601
+Centralniy	214625
+Owerri	215038
+Velikiy Novgorod	215062
+Mucumpiz	215259
+Jinzhou	215386
+Novi Sad	215400
+Concepcion	215413
+Biysk	215430
+Mekele	215546
+Daloa	215652
+Mirpur Khas	215657
+Zelenograd	215727
+Purwakarta	215803
+Galkissa	215941
+Freiburg	215966
+VykhinoZhulebino	216000
+Imus	216099
+Kisumu	216479
+Santa Rosa	216650
+Hobart	216656
+Rybinsk	216724
+Jamaica	216866
+North Las Vegas	216961
+Colombo	217000
+Purwokerto	217222
+Alor Setar	217368
+Scottsdale	217385
+Taiping	217647
+Amarnath	217780
+San Pedro de Macoris	217899
+Imperatriz	218106
+Bertoua	218111
+Wuhai	218427
+Eldoret	218446
+Prokopyevsk	219000
+Verona	219103
+Chon Buri	219164
+Oberhausen	219176
+Binangonan	219204
+Ageoshimo	219401
+Badalona	219547
+Thanjavur	219571
+Dhanbad	219636
+Kharagpur	219665
+Takarazuka	219789
+DehiwalaMount Lavinia	219827
+Mount Lavinia	219827
+Messina	219948
+Mirzapur	220029
+FuencarralEl Pardo	220085
+Cabanatuan City	220250
+Rishon LeZiyyon	220492
+Babruysk	220517
+Wuxue	220661
+Nishabur	220929
+Sant Marti	221029
+Banja Luka	221106
+Olongapo	221178
+Blagoveshchensk	221296
+Shakhty	221312
+Formosa	221383
+Embu	221733
+Ikire	222160
+Chesapeake	222209
+Graz	222326
+Haeju	222396
+Santa Cruz de Tenerife	222417
+Xintai	222459
+Puerto Princesa	222673
+Gosaba	222764
+Qarshi	222898
+Paradise	223167
+Najafabad	223450
+Imphal	223523
+Tongchuan	223603
+Narayanganj	223622
+Okara	223648
+Arrah	223676
+Adiyaman	223744
+Paramaribo	223757
+Oviedo	224005
+Minamirinkan	224015
+Ashdod	224656
+Hialeah	224669
+Nacala	224795
+Sucre	224838
+Jingling	224871
+Tanga	224876
+Roodepoort	225000
+Karnal	225049
+Mymensingh	225126
+Reno	225221
+Juazeiro do Norte	225230
+Lexington	225366
+Bukavu	225389
+Sector 1	225453
+Mubi	225705
+Quthbullapur	225816
+Huanggang	225956
+Raichur	225962
+Geelong	226034
+Groznyy	226100
+Huambo	226145
+Ajman	226172
+Sabzevar	226183
+Fendou	226298
+Shrirampur	226317
+Glendale	226721
+Radom	226794
+Neue Neustadt	226851
+Gusau	226857
+Garland	226876
+Liaocheng	226930
+Staryy Oskol	226977
+Al Minya	227150
+Diez de Octubre	227293
+Sosnowiec	227295
+Puducherry	227411
+Kremenchuk	227494
+Iquique	227499
+San Lorenzo	227876
+Nassau	227940
+Damanhur	227943
+Sumare	227977
+Bexley	228000
+Ciudad Lineal	228171
+Miri	228212
+Lille	228328
+Durham	228330
+Rach Gia	228356
+Gomez Palacio	228577
+Karimnagar	228745
+Ipatinga	228746
+Lucena	228758
+Binjai	228763
+Sungai Petani	228843
+Ploiesti	228851
+Uitenhage	228912
+Magdalena Contreras	228927
+Croix des Bouquets	229127
+Atsugi	229199
+Longueuil	229330
+Bharatpur	229384
+Tripoli	229398
+Baton Rouge	229493
+Nawabshah	229504
+Lubbock	229573
+WinstonSalem	229617
+Magdeburg	229826
+Halwan	230000
+Nukus	230006
+Marka	230100
+Elche	230112
+Syktyvkar	230139
+Coatzacoalcos	230717
+Suncheon	230796
+Ngaoundere	231357
+Soka	231445
+Taytay	231460
+Gent	231493
+Chigasaki	231657
+Ganganagar	231838
+Bordeaux	231844
+Linfen	232566
+Kiel	232758
+Takoradi	232919
+HamburgMitte	233144
+Madison	233209
+Tagum	233254
+Centurion	233386
+Kitchener	233700
+Halle Saale	234107
+PortoNovo	234168
+Nizhnekamsk	234297
+Granada	234325
+Turkmenabat	234817
+Ibb	234837
+Kismayo	234852
+Ramagundam	235000
+Georgetown	235017
+Derby	235029
+Kediri	235143
+Boa Vista	235150
+Qina	235362
+Caruaru	235371
+Yakutsk	235600
+Gasteiz  Vitoria	235661
+Ternopil	235676
+Sahiwal	235695
+Yuci	235929
+Laredo	236091
+Dera Ghazi Khan	236093
+Chandler	236123
+Chernivtsi	236250
+Kosice	236563
+Ratlam	236843
+Sylhet	237000
+Djougou	237040
+Tegal	237084
+Pathein	237089
+Al Jubayl	237274
+Uruapan	237308
+Batangas	237370
+Sasebo	237444
+Arhus	237551
+Barasat	237783
+Seeb	237816
+Krefeld	237984
+Temuco	238129
+Balikesir	238151
+Kurume	238197
+Orlando	238300
+Nagarpur	238422
+Neyagawa	238549
+Gravatai	238778
+Vaughan	238866
+Hachinohe	239046
+Xiantao	239406
+Halle Neustadt	240000
+Fuji	240014
+Lankaran	240300
+Buenaventura	240387
+Anantapur	240442
+Takasaki	240857
+Sancaktepe	241000
+Farrukhabad	241152
+Aswan	241261
+Tehuacan	241429
+Novorossiysk	241856
+Neuquen	242092
+Yibin	242111
+Gatineau	242124
+Ojo de Agua	242272
+Berbera	242344
+Deir ezZor	242565
+Bhatinda	242800
+Norfolk	242803
+Hapur	242920
+Marino	243000
+Angarsk	243158
+Wonju	243387
+Kunsan	243406
+Santa Luzia	243503
+Louisville	243639
+Chula Vista	243916
+Manisa	243971
+Jessore	243987
+Reading	244070
+Trabzon	244083
+Puente de Vallecas	244151
+Baruta	244216
+Bihar	244230
+Bago	244376
+Hebi	244662
+Braunschweig	244715
+Saint Petersburg	244769
+Gorgan	244937
+Nizhnevartovsk	244937
+Jian	245000
+Nicolas Romero	245383
+Juliaca	245675
+Shimonoseki	245786
+Mau	246050
+Abriola  1586
+Southampton	246201
+Rizhao	246387
+Mito	246538
+San Cristobal	246583
+Nottingham	246654
+Vanderbijlpark	246754
+Orsk	246836
+Ica	246844
+Chemnitz	247220
+Udon Thani	247231
+Plymouth	247297
+Saugor	247333
+Jersey City	247597
+Bukhara	247644
+Palmira	247986
+Oshawa	247989
+Tiruvottiyur	248059
+Czestochowa	248125
+Jimeta	248148
+Montpellier	248252
+Dniprodzerzhynsk	248575
+Fukuishi	248707
+Santa Maria	249219
+Kirovohrad	249454
+Volta Redonda	249580
+Porto	249633
+Varzea Grande	249752
+San Bernardo	249858
+PortdePaix	250000
+Tel Aviv	250000
+Colonia del Valle	250000
+Nis	250000
+Praia Grande	250027
+Avadi	250044
+Altona	250192
+Gombe	250258
+Libertad	250353
+Iwo	250443
+Santa Clara	250512
+Sonipat	250521
+Wafangdian	250591
+Banda Aceh	250757
+Tirupati	250821
+Governador Valadares	250878
+Morogoro	250902
+Los Reyes La Paz	251168
+San Fernando	251248
+Nanyang	251532
+Taubate	251641
+Santiago de Surco	251648
+Qarchak	251834
+Liupanshui	251900
+Eimsbuettel	251907
+Borujerd	251958
+Barueri	251994
+Suihua	252245
+Floridablanca	252267
+Dire Dawa	252279
+Thies Nones	252320
+El Fasher	252609
+Wolverhampton	252791
+Talcahuano	252968
+Richards Bay	252968
+Laohekou	253112
+Vitoria da Conquista	253137
+Naihati	253221
+Carabanchel	253678
+Fort Wayne	253691
+Gdynia	253730
+Coxs Bazar	253788
+Novo Hamburgo	253841
+Cirebon	254298
+Santa Catarina	254472
+Yamagata	254538
+Heze	254602
+Ikot Ekpene	254806
+Laochenglu	254900
+Soledad de Graciano Sanchez	255015
+Rivne	255106
+Durg	255283
+Sari	255396
+Osh City	255900
+Tarsus	256482
+Dzerzhinsk	256537
+Ensenada	256565
+Bratsk	256600
+Latina	256644
+Espoo	256760
+Chimoio	256936
+Ondo	257005
+LHospitalet de Llobregat	257038
+Cascavel	257172
+Etawah	257448
+Rio Branco	257642
+Henderson	257729
+Satna	257778
+Cumana	257783
+Pekalongan	257945
+Al Mukalla	258132
+Ciudad Obregon	258162
+Lincoln	258379
+Najran	258573
+Popayan	258653
+Jining	258757
+Jiujiang	258807
+Gajuwaka	258944
+Hiratsuka	259052
+Augsburg	259196
+Can Tho	259598
+Plano	259841
+Nakuru	259903
+Aral	260000
+Baranagar	260072
+StokeonTrent	260419
+Uberaba	260843
+Tongliao	261110
+Sincelejo	261187
+Dewas	261218
+Buffalo	261310
+Malmoe	261548
+Markham	261573
+Moenchengladbach	261742
+Lal Bahadur Nagar	261987
+Jalna	262034
+Parana	262295
+Aqtobe	262457
+Eixample	262485
+Witbank	262491
+Oaxaca de Juarez	262566
+Sivas	264022
+Mianyang	264136
+Umuahia	264662
+El Daein	264734
+Petrozavodsk	265025
+Mantampay	265032
+Sumqayit	265150
+Aachen	265208
+Aizawl	265331
+Hulan Ergi	265344
+Wuzhou	265846
+Chengzhong	265886
+Hail	267005
+Sterlitamak	267231
+Haifa	267300
+Tokushima	267345
+Kafr ad Dawwar	267370
+Tshikapa	267462
+Windhoek	268132
+Russeifa	268237
+Moppo	268402
+Greensboro	269666
+Ciudad Victoria	269923
+Gelsenkirchen	270028
+Muenster	270184
+San Pedro	270216
+Linyi	270669
+Bijapur	271064
+Tasikmalaya	271143
+Sector 5	271575
+Kakogawachohonmachi	271634
+Ljubljana	272220
+Kashan	272359
+Monteria	272420
+Wiesbaden	272432
+Ar Rayyan	272465
+Petropolis	272691
+Baguio	272714
+Nalchik	272800
+Guantanamo	272801
+Herat	272806
+Yao	273213
+Ibaraki	273992
+Ichalkaranji	274383
+Ramadi	274539
+Kashgar	274717
+Belfast	274770
+Strasbourg	274845
+Caucaia	275019
+Mokolo	275239
+Bab Ezzouar	275630
+Hakodate	275730
+KomsomolskonAmur	275908
+Brasov	276088
+Sukabumi	276414
+Bahia Blanca	276546
+Owo	276574
+Cuenca	276964
+Newark	277140
+Nantes	277269
+Sfax	277278
+Khomeyni Shahr	277334
+Bari	277387
+Gijon	277554
+Kostroma	277656
+Ilesa	277904
+Windsor	278013
+Horlivka	278550
+Santa Teresa	278890
+Taganrog	279056
+YoshkarOla	279100
+Effon Alaiye	279319
+Mingora	279914
+HamburgNord	280000
+Tacna	280098
+Ichinomiya	280331
+Chuzhou	280582
+Tepic	280592
+Batna	280798
+Narsingdi	281080
+Gebze	281436
+Itaguei	281853
+Zhytomyr	282192
+Kupang	282396
+Palu	282431
+Valparaiso	282448
+Logan City	282673
+Bilaspur	282705
+Maebashi	282711
+Petionville	283052
+Cainta	283172
+Alwar	283228
+Suzano	283314
+Nha Trang	283441
+Iksan	283501
+Ichihara	283531
+Port Moresby	283733
+Karlsruhe	283799
+Dihok	284000
+Alto Barinas	284289
+Ismailia	284813
+Kuala Terengganu	285065
+Saint Paul	285068
+Zagazig	285097
+Viamao	285269
+Sultanbeyli	286622
+Adapazari	286787
+Marienthal	287101
+Darbhanga	287150
+Toledo	287208
+Hue	287217
+Sector 4	287828
+Sinuiju	288112
+Safi	288163
+Setif	288461
+Ironville	288649
+Meads	288649
+Tsuen Wan	288728
+Zeytinburnu	288743
+Huizhou	289201
+Beihai	289568
+Victoria	289625
+Parbhani	289629
+Limeira	289665
+Al Hillah	289709
+Paulista	289971
+Xiuying	290000
+Utrecht	290529
+Kasur	290643
+Bafoussam	290768
+Al Mubarraz	290802
+Catania	290927
+Tambov	290933
+Gumi	291006
+Mueang Nonthaburi	291555
+Mbeya	291649
+Stockton	291707
+Anchorage	291826
+Bialystok	291855
+Minna	291905
+Ponta Grossa	292177
+Wollongong	292190
+Makurdi	292645
+Semey	292780
+Panipat	292808
+Kakinada	292923
+Al Hufuf	293179
+Foz do Iguacu	293523
+Greater Noida	293908
+Noida	293908
+Blumenau	293949
+Galati	294087
+Fukushima	294237
+Sumy	294456
+Vina del Mar	294551
+Morioka	295172
+Yeosu	295538
+LexingtonFayette	295803
+Yokkaichi	295841
+Rampur	296418
+Hisar	296436
+Cincinnati	296943
+Bali	296973
+Akashi	297279
+Tampico	297284
+Vigo	297332
+Cherkasy	297568
+Okanagan	297601
+Elazig	298004
+Barasat	298127
+Otsu	298164
+Aomorishi	298394
+Jember	298585
+Kasugai	298589
+Santol	298976
+Bradford	299310
+Angeles City	299391
+Yangshuo	300000
+Mandu	300000
+Kyzylorda	300000
+KyzylOrda	300000
+George Town	300000
+Malir Cantonment	300000
+Juba	300000
+Batikent	300000
+Merida	300000
+Surgut	300367
+Mardan	300424
+Brest	300715
+Naha	300795
+Gujrat	301506
+Barddhaman	301725
+Cardiff	302139
+Hull	302296
+Mazare Sharif	303282
+Saransk	303394
+Constanta	303399
+Riverside	303871
+Craiova	304142
+Rajahmundry	304804
+Franca	305041
+Corpus Christi	305215
+Kulti	305405
+Nizamabad	305438
+Mandaluyong City	305576
+Brakpan	305692
+Pittsburgh	305704
+San Salvador de Jujuy	305891
+Celaya	305901
+Porto Velho	306180
+Al Fayyum	306393
+Firozabad	306409
+Shengli	306450
+Tawau	306462
+Chinju	307242
+Tumkur	307359
+Irbid	307480
+Chernihiv	307684
+Mannheim	307960
+Biskra	307987
+General Escobedo	308206
+Valledupar	308237
+Newcastle	308308
+Coventry	308313
+Chita	308500
+Tampico	309003
+Butuan	309709
+Bengkulu	309712
+Botshabelo	309714
+Antofagasta	309832
+Vladimir	310024
+Sariwon	310100
+Guaruja	310424
+Jingdezhen	310565
+Pucallpa	310750
+Percut	311063
+Miyazaki	311203
+Maringa	311724
+Cusco	312140
+Iligan City	312323
+Wusong	312588
+Vitoria	312656
+Varna	312770
+Ostrava	313088
+Bonn	313125
+Ikeja	313196
+Denizli	313238
+Lianshan	313247
+Ganja	313300
+Coacalco	313405
+Soacha	313945
+Sisli	314684
+Vologda	314900
+Timisoara	315053
+Al Kut	315162
+Armenia	315328
+Cherepovets	315738
+Bauchi	316149
+Calamba	316612
+ClujNapoca	316748
+Chimbote	316966
+Baicheng	316970
+Rohtak	317245
+Katowice	317316
+Hrodna	317365
+Vladikavkaz	317370
+Koshigaya	317437
+New Delhi	317797
+Poltava	317847
+Valladolid	317864
+Iasi	318012
+Andijon	318419
+Mataram	318674
+Shangrao	318769
+Ad Diwaniyah	318801
+UstKamenogorsk	319067
+Holguin	319102
+Islington	319143
+Murmansk	319263
+St Louis	319294
+Samarqand	319366
+Shimoga	319550
+Pachuca de Soto	319581
+Anapolis	319587
+Moron	319934
+Maroua	319941
+Akita	320069
+Shahjanpur	320434
+Kherson	320477
+Pelotas	320674
+Ciudad del Este	320782
+Smolensk	320991
+San Miguelito	321501
+Jundiai	321589
+Villavicencio	321717
+Volzhskiy	323293
+Al Amarah	323302
+Posadas	323739
+Suizhou	323945
+Orel	324200
+Sao Vicente	324457
+Santa Ana	324528
+Brahmapur	324726
+Aurora	325078
+Trichur	325110
+Piura	325466
+Toyama	325532
+Mogi das Cruzes	325746
+Akitashi	325837
+Tetouan	326261
+Bhilwara	326431
+Yanji	326957
+Chongjin	327000
+Sochi	327608
+Canoas	328291
+Chanda	328351
+Cordoba	328428
+Pavlodar	329002
+Wonsan	329207
+Patiala	329224
+Soyapango	329708
+Khorramabad	329825
+Mathura	330511
+Khorramshahr	330606
+Mandaue City	331320
+Bujumbura	331700
+Bielefeld	331906
+Montes Claros	332379
+Jincheng	332650
+Wad Medani	332714
+Kamarhati	332965
+Muzaffarpur	333200
+Qazvin	333635
+Tieling	333907
+Takamatsu	334223
+Alicante	334757
+San Jose	335007
+Bauru	335024
+Kochi	335570
+Tampa	335709
+Anaheim	336265
+Itaquaquecetuba	336679
+Bellary	336681
+Krasnogvargeisky	337091
+Tungi	337579
+Kawagoe	337931
+Ciudad Bolivar	338000
+Kaesong	338155
+Nice	338620
+West Raleigh	338759
+Macapa	338936
+Kaluga	338978
+Corrientes	339067
+Leicester	339239
+Tokorozawa	339435
+Irapuato	339554
+Yingbazha	340020
+Latakia	340181
+Kashiwa	340221
+Chitungwiza	340360
+Plovdiv	340494
+Koriyama	340560
+Ambattur	341049
+Arusha	341136
+Jhang Sadr	341210
+Kukatpalli	341709
+Zurich	341730
+Piracicaba	342209
+Shiqi	342306
+Soledad	342556
+Vitebsk	342700
+Bhimbar	342900
+Rangpur	343122
+Kurgan	343129
+Cuernavaca	343769
+New Orleans	343829
+Tlahuac	344106
+Turmero	344700
+Doha	344939
+Taihe	345033
+Kosti	345068
+Belgorod	345289
+Sector 2	345370
+Astana	345604
+Hungnam	346082
+Chifeng	346654
+London	346765
+Bakersfield	347483
+Camaguey	347562
+Etobicoke	347948
+Campina Grande	348936
+Latur	348967
+Sanandaj	349176
+Florence	349296
+Nuevo Laredo	349550
+Muzaffarnagar	349706
+Punasa	350000
+Diepsloot	350000
+LapuLapu City	350467
+Hualien City	350468
+Wakayama	351000
+Ixtapaluca	351001
+Suita	351630
+Anshun	351936
+Apodaca	352064
+Vinnytsya	352115
+Bandar Abbas	352173
+Okazaki	352361
+Neiva	352855
+Barinas	353442
+Miguel Hidalgo	353534
+Thessaloniki	354290
+Takatsuki	354468
+Santiago del Estero	354692
+Mazatlan	354717
+Bilbao	354860
+Benito Juarez	355017
+Samarinda	355160
+Ambon	355596
+Arkhangelsk	356051
+Kimhae	356242
+Asahikawa	356612
+Bacoor	356974
+Iwaki	357309
+Zanjan	357471
+Kwangmyong	357545
+Manizales	357814
+San Jose del Monte	357828
+Simferopol	358108
+Taraz	358153
+Anqing	358661
+Halifax	359111
+Lublin	360044
+BoboDioulasso	360106
+Nagano	360176
+UlanUde	360278
+Tamale	360579
+Wuppertal	360797
+Carapicuiba	361112
+Sheikhupura	361303
+Bhagalpur	361548
+Atasehir	361615
+Zhaoqing	361969
+Manukau City	362000
+Toyota	362383
+Villahermosa	362401
+Stavropol	363064
+Christchurch	363926
+Al Qadarif	363945
+Larkana	364033
+Petare	364684
+Cheonan	365114
+Arlington	365438
+San Miguel Xico Viejo	365777
+Bologna	366133
+Kuantan	366229
+Bydgoszcz	366452
+Kenitra	366570
+Olinda	366754
+Dhulia	366980
+Ahmadnagar	367140
+Narashi	367353
+Canberra	367752
+Sector 6	367760
+Mahilyow	369200
+Brno	369559
+Fenghuang	370000
+Puerto La Cruz	370000
+Abadan	370180
+Honolulu	371657
+Van	371713
+Pingxiang	372123
+Seremban	372917
+Zhangjiakou Shi Xuanhua Qu	373422
+Kaunas	374643
+Sao Jose do Rio Preto	374699
+Tirana	374801
+Minato	375339
+Kahramanmaras	376045
+Putian	376558
+Makiyivka	376610
+Huancayo	376657
+Laval	376845
+Zhoukou	377061
+Toyohashi	378374
+Panihati	378705
+Krugersdorp	378821
+Sevastopol	379200
+Dezhou	379555
+BochumHordel	380000
+Nizhniy Tagil	381116
+Caxias do Sul	381270
+Las Palmas de Gran Canaria	381847
+Wellington	381900
+Batman	381990
+Pasto	382236
+Wichita	382368
+Minneapolis	382578
+Delmas 73	382920
+Ndalatando	383100
+Fukuyama	383298
+Betim	384000
+Iztacalco	384326
+Toyonaka	384459
+Sector 3	385439
+Bochum	385729
+AbomeyCalavi	385755
+Maua	386069
+Misratah	386120
+Resistencia	387158
+Campos	387417
+Khamis Mushait	387553
+Iloilo	387681
+Bissau	388028
+Nampula	388526
+Samut Prakan	388920
+Comilla	389411
+Diadema	390633
+Oakland	390724
+Kandahar	391190
+Buraydah	391336
+Tulsa	391906
+Sandakan	392288
+Xinpu	392444
+Bello	392939
+El Obeid	393311
+Bamenda	393835
+Tallinn	394024
+Samsun	394050
+Serra	394153
+Kollam	394163
+Ndola	394518
+Fujisawa	394624
+Weifang	394732
+Vila Velha	394930
+Surrey	394976
+Manchester	395515
+Al Hoceima	395644
+Cleveland	396815
+Keelung	397515
+Tiruppur	397521
+Gifushi	397714
+Khmelnytskyy	398346
+Miami	399457
+Yangjiang	399735
+Machida	399969
+West Jerusalem	400000
+Tver	400212
+An Nasiriyah	400249
+Kitwe	400914
+Palma	401270
+Kassala	401477
+Tonala	401509
+Taoyuan City	402014
+Zanzibar	403658
+Jixi	403759
+Raleigh	403892
+Hsinchu	404109
+Nellore	404158
+Xochimilco	404458
+Newcastle	404838
+Tanda	404901
+Oujda	405253
+Denpasar	405923
+Hirakata	406331
+Ribeirao das Neves	406802
+Villa Nueva	406830
+Bien Hoa	407208
+Szczecin	407811
+Shiyan	408055
+Panama	408168
+Jeju City	408364
+Al Ain	408733
+Omaha	408958
+Kursk	409431
+Gaza	410000
+Chaoyang	410005
+Nagasaki	410204
+Ardabil	410753
+Maturin	410972
+Santos	411403
+Wandsbek	411422
+Florianopolis	412724
+Jhansi	412927
+Magnitogorsk	413351
+Yangquan	413394
+Shymkent	414032
+Colorado Springs	416427
+Luohe	417356
+Mangalore	417387
+Sukkur	417767
+Auckland	417910
+Kolwezi	418000
+San Juan	418140
+Bokaro	418533
+Korba	419146
+Atlanta	420003
+Al Mansurah	420195
+Jambi City	420323
+Asyut	420585
+Akure	420594
+Erzurum	420691
+Ivanovo	420839
+Shaoxing	421283
+Ibague	421685
+Luxor	422407
+Likasi	422414
+Udaipur	422784
+Gaya	423692
+Bratislava	423737
+AdoEkiti	424340
+Chaozhou	424787
+Barcelona	424795
+Xalapa de Enriquez	425148
+Azcapotzalco	425298
+Maltepe	427040
+Bryansk	427236
+Luqiao	427890
+East Jerusalem	428304
+Belgaum	428720
+Akola	428857
+Yokosuka	428992
+Jalgaon	429298
+Bristol	430713
+Al Mahallah al Kubra	431052
+Santa Marta	431781
+Welkom	431944
+Katsina	432149
+Namangan	432456
+Toulouse	433055
+Brampton	433806
+Balikpapan	433866
+Ananindeua	433956
+Karbala	434450
+Kaliningrad	434954
+Malegaon	435362
+Kousseri	435547
+Edinburgh	435791
+Tirunelveli	435844
+Beian	436444
+Uyo	436606
+Mwanza	436801
+Murcia	436870
+Garoua	436899
+Sultangazi	436935
+Kurashiki	437581
+Iquitos	437620
+Virginia Beach	437994
+Mawlamyine	438861
+Mesa	439041
+Kozhikode	439922
+Pereira	440118
+Nangi	440894
+Malatya	441805
+Dasmarinas	441876
+Shyamnagar	441956
+Carrefour	442156
+Amagasaki	442173
+San Nicolas de los Garza	443273
+Matsuyama	443322
+Cagayan de Oro	445103
+Boksburg	445168
+Cheboksary	446781
+Sheffield	447047
+San Juan	447048
+Venustiano Carranza	447459
+Oita	448907
+Jiangguanchi	449258
+Chengde	449325
+Sanliurfa	449549
+Heroica Matamoros	449815
+Utsunomiya	449865
+Wenshan City	450000
+Muratpasa	450000
+Constantine	450097
+Jining	450327
+Karagandy	451800
+Manado	451893
+Luhansk	452000
+Ramgundam	452261
+Mansilingan	454150
+Sao Joao de Meriti	454849
+Bacolod City	454898
+Nampo	455000
+Leeds	455123
+Pontianak	455173
+Tabuk	455450
+Hengshui	456356
+Niteroi	456456
+Victoria de Durango	457140
+Kota Kinabalu	457326
+Ujjain	457346
+Kirov	457383
+Zamboanga	457623
+Karabaglar	458000
+Kanazawa	458937
+Kansas City	459787
+Antwerpen	459805
+Hamah	460602
+Joinville	461304
+Dadukou	461513
+Calabar	461796
+Gdansk	461865
+Long Beach	462257
+Xiangyang	462956
+Bloemfontein	463064
+Kananga	463546
+Liaoyuan	465249
+Jammu	465567
+Belford Roxo	466096
+Jiaxing	466101
+Zunyi	466292
+Sacramento	466488
+Kawaguchi	468565
+Staten Island	468730
+Tula	468825
+Nishinomiyahama	468925
+Liverpool	468945
+Juiz de Fora	470193
+Matsudo	470277
+Jiaojiang	470804
+Londrina	471832
+Lyon	472317
+Mixco	473080
+The Hague	474292
+Vereeniging	474681
+Skopje	474889
+Yinchuan	475101
+Cuautitlan Izcalli	475179
+Hwaseongsi	476297
+Yichang	476725
+Kemerovo	477090
+Sialkot	477396
+Hargeysa	477876
+Yazd	477905
+East London	478676
+Uijeongbusi	479141
+Okene	479178
+Gomel	480951
+Tuxtla Gutierrez	481128
+Himeji	481493
+Mariupol	481626
+Shah Alam	481654
+Feira de Santana	481911
+Najaf	482576
+Bhatpara	483129
+Gulbarga	483615
+Saharanpur	484873
+Masina	485167
+Tomsk	485519
+Dresden	486854
+Suez	488125
+San Pedro Sula	489466
+Santa Fe de la Vera Cruz	489505
+Port Sudan	489725
+Aracaju	490175
+Jamnagar	492056
+Wuwei	493092
+Tlaquepaque	493646
+Cimahi	493698
+Fresno	494665
+Makhachkala	497959
+Reynosa	498654
+Shashi	498780
+Nuernberg	499237
+Pohang	500000
+Zhuhai	501199
+Astrakhan	502533
+Arak	503647
+Goeteborg	504084
+Asansol	504271
+Duisburg	504358
+Kalininskiy	504641
+Leipzig	504971
+Karol Bagh	505241
+Niigata	505272
+Toluca	505881
+Wuhu	507524
+Naberezhnyye Chelny	509870
+Makati City	510383
+Puente Alto	510417
+Aparecida de Goiania	510770
+Mykolayiv	510840
+Bilimora	510879
+Tembisa	511655
+Penza	512602
+Salta	512686
+Azadshahr	514102
+Eskisehir	514869
+Hannover	515140
+Shiliguri	515574
+Lipetsk	515655
+Kolhapur	516142
+Ulhasnagar	516584
+Jiaozuo	517540
+Changde	517780
+Lisbon	517802
+Ajmer	517911
+Quilmes	518788
+Durgapur	518872
+Tyumen	519119
+Hamilton	519949
+Tucson	520116
+Ryazan	520173
+Esenler	520235
+Bhayandar	520301
+Macau	520400
+Petaling Jaya	520698
+Ciudad Lopez Mateos	521034
+Cuauhtemoc	521348
+Cuiaba	521934
+Dehra Dun	522081
+Torreon	524066
+Santa Maria Chimalhuacan	525389
+San Salvador	525990
+Cangzhou	527681
+Hamadan	528256
+Quebec	528595
+Touba	529176
+Guntur	530577
+Beira	530604
+Taif	530848
+Nashville	530852
+Jiangmen	532419
+Tanggu	535298
+Ebute Ikorodu	535619
+Guli	536000
+Warri	536023
+Mercin	537842
+Port Said	538378
+Kisangani	539158
+Novokuznetsk	539616
+Yangzhou	539715
+Cancun	542043
+Vilnius	542366
+Bangui	542393
+Sargodha	542603
+Banqiao	543342
+Sharjah	543733
+Meknes	545705
+Albuquerque	545852
+Bremen	546501
+Neijiang	546854
+Antipolo	549543
+Jiamusi	549549
+Changwon	550000
+Pristina	550000
+Orenburg	550204
+Nanded	550564
+Aden	550602
+Zahedan	551980
+Bahawalpur	552607
+Mar del Plata	553935
+Bhavnagar	554978
+Huaian	555230
+Surakarta	555308
+Kagoshima	555352
+Siping	555609
+Santiago de Cuba	555865
+Warangal	557802
+Helsinki	558457
+Sorocaba	558862
+Hamhung	559056
+Honcho	560743
+Onitsha	561066
+Uberlandia	563536
+Sokoto	563861
+Asmara	563930
+Bouake	567481
+Malaga	568305
+Veracruz	568313
+Poznan	570352
+Kuching	570407
+South Boston	571281
+Bucaramanga	571820
+Shihezi	572772
+Banjarmasin	572837
+Duesseldorf	573057
+Umraniye	573265
+Bikaner	576015
+Bengbu	576648
+Bahcelievler	576799
+Orumiyeh	577307
+Chiclayo	577375
+Kerman	577514
+Libreville	578156
+Khabarovsk Vtoroy	578303
+Khabarovsk	579000
+Hachioji	579399
+Oklahoma City	579999
+Cuttack	580000
+Oslo	580000
+Genoa	580223
+UEskuedar	582666
+Las Vegas	583756
+Portland	583776
+New Kingston	583958
+Blantyre	584877
+Irkutsk	586695
+Vladivostok	587022
+Dortmund	588462
+Stuttgart	589793
+Zhangzhou	589831
+Abuja	590400
+Yingkou	591159
+Gold Coast	591473
+Morelia	592797
+Kayseri	592840
+Essen	593085
+Abeokuta	593100
+Rasht	594590
+Milwaukee	594833
+Hermosillo	595811
+Mexicali	597099
+Luancheng	597130
+Rotterdam	598199
+Barnaul	599579
+Vancouver	600000
+Scarborough	600000
+Shuangyashan	600000
+Situbondo	600000
+Denver	600158
+Sangli	601214
+Kirkuk	601433
+Islamabad	601600
+Washington DC	601723
+Haiphong	602695
+Abu Dhabi	603492
+Amravati	603837
+Jinzhou	604269
+Cochin	604696
+Hamamatsu	605098
+Benoni	605344
+Yaroslavl	606730
+Tlalpan	607545
+Seattle	608660
+Borivli	609617
+Glasgow	610268
+Xingtai	611739
+Taizhou	612356
+Sao Jose dos Campos	613764
+Taizz	615222
+Haikou	615835
+Jamshedpur	616338
+Pasig City	617301
+Boston	617594
+Al Hudaydah	617871
+Ribeirao Preto	619746
+Baltimore	620961
+Kermanshah	621100
+Saltillo	621250
+Djibouti	623891
+Panshan	625040
+Bhilai	625138
+Santiago de Queretaro	626495
+Contagem	627123
+Coyoacan	628063
+Yancheng	628441
+Shaoguan	628749
+Jaboatao dos Guararapes	630008
+Izhevsk	631038
+Dandong	631973
+Winnipeg	632063
+Zhenjiang	632552
+Tebessa	634332
+Anyangsi	634367
+Cheongjusi	634596
+Wroclaw	634893
+Chisinau	635994
+North York	636000
+Yogyakarta	636660
+Al Ahmadi	637411
+Zhanjiang	637790
+Okayama	639652
+Kotli	640000
+Ulyanovsk	640680
+New South Memphis	641608
+Taguig	644473
+Diyarbakir	644763
+Oran	645984
+Lilongwe	646750
+Memphis	646889
+Colombo	648034
+Palermo	648260
+El Paso	649121
+Guilin	649352
+Krasnodar	649851
+Frankfurt am Main	650000
+Benghazi	650629
+Ansansi	650728
+Joao Pessoa	650883
+Acapulco de Juarez	652136
+Kryvyi Rih	652380
+Aguascalientes	658179
+PointeNoire	659084
+Nouakchott	661400
+Santo Andre	662373
+Athens	664046
+Mudanjiang	665915
+Nantong	666251
+Puyang Chengguanzhen	666322
+Mississauga	668549
+Ipoh	673318
+Xiangtan	674189
+Gorakhpur	674246
+Zaragoza	674317
+Culiacan	675000
+Matola	675422
+San Luis Potosi	677704
+Osasco	677856
+Dushanbe	679400
+General Santos	679588
+Raipur	679995
+Kumamoto	680423
+Liaoyang	687890
+Huangshi	688090
+Tangier	688356
+Enugu	688862
+Fuxin	689050
+Zigong	689961
+Zhangjiakou	692602
+Tunis	693210
+La Plata	694167
+Sarajevo	696731
+Agadir	698310
+Zagreb	698966
+Bulawayo	699385
+Changzhi	699514
+City of Balikpapan	700000
+Rajshahi	700133
+Santo Domingo Oeste	701269
+Shizuoka	701561
+Jaboatao	702621
+Tolyatti	702879
+Sevilla	703206
+Pekanbaru	703956
+Bhiwandi	707035
+Subang Jaya	708296
+Zhuzhou	709358
+Jeonju	711424
+Edmonton	712391
+Detroit	713777
+Tlalnepantla	715767
+Merida	717175
+Lviv	717803
+Yantai	719332
+Zhumadian	720000
+Langfang	720119
+NDjamena	721081
+Moradabad	721139
+Cucuta	721398
+As Sulaymaniyah	723170
+Bagcilar	724270
+Guadalupe	724921
+Muzaffarabad	725000
+Alvaro Obregon	727034
+Ashgabat	727700
+Campo Grande	729151
+Charlotte	731424
+Quetta	733675
+Oyo	736072
+Fort Worth	741206
+Amsterdam	741636
+Riga	742572
+Hegang	743307
+Sao Bernardo do Campo	743372
+Nangandao	743601
+Teresina	744512
+Kigali	745261
+Bareilly	745435
+Ciudad Guayana	746535
+Malang	746716
+Trujillo	747450
+Lome	749700
+Pietermaritzburg	750845
+Da Nang	752493
+Aligarh	753207
+Krakow	755050
+Antalya	758188
+Hengyang	759602
+Qinhuangdao	759718
+Bhubaneshwar	762243
+Natal	763043
+Kota	763088
+Kahriz	766706
+Xining	767531
+Dammam	768602
+Lodz	768755
+Shangyu	770000
+Tainan	771235
+Niamey	774235
+Hohhot	774477
+Homs	775404
+Tiruchirappalli	775484
+Salem	778396
+Cotonou	780000
+San Miguel de Tucuman	781023
+Anyang	781129
+Sakai	782339
+Thiruvananthapuram	784153
+Jalandhar	785178
+Boumerdas	786499
+Columbus	787033
+Pasragad Branch	787878
+Austin	790390
+Cankaya	792189
+Zarqa	792665
+Marseille	794811
+Zaporizhzhya	796217
+Muscat	797000
+Cebu City	798634
+Mombasa	799668
+Zagreb  Centar	800000
+Bogor	800000
+Bandar Lampung	800348
+Jerusalem	801000
+Johor Bahru	802489
+Freetown	802639
+Nanning	803788
+San Francisco	805235
+Chihuahua	809232
+Barquisimeto	809490
+Ottawa	812129
+La Paz	812799
+Callao	813264
+Ilorin	814192
+Valencia	814208
+Jos	816824
+Duque de Caxias	818329
+Jacksonville	821784
+Indianapolis	829718
+Kampung Baru Subang	833571
+Marrakesh	839296
+Hubli	840214
+Padang	840352
+Arequipa	841130
+Ahvaz	841145
+Takeo	843931
+Ulan Bator	844818
+Naucalpan de Juarez	846185
+Ranchi	846454
+Voronezh	848752
+Bucheonsi	850731
+Tegucigalpa	850848
+Saratov	863725
+Wenzhou	865672
+Mysore	868313
+Turin	870456
+Pikine	874062
+Vijayawada	874587
+MbujiMayi	874761
+Konya	875530
+Mendoza	876884
+Klang	879867
+Qiqihar	882364
+Gwalior	882458
+Pingdingshan	889675
+Aba	897560
+Guwahati	899094
+Abobo	900000
+Kaifeng	900000
+Abu Ghurayb	900000
+Qom	900000
+Bishkek	900000
+Cochabamba	900414
+Huaibei	903039
+Sale	903485
+Madurai	909908
+Sao Luis	917237
+Chiba	919729
+Jodhpur	921476
+Nay Pyi Taw	925000
+Krasnoyarsk	927200
+Erbil	932800
+Kingston	937700
+Monrovia	939524
+San Jose	945942
+Sultanah	946697
+Changzhou	949018
+Cartagena	952024
+Maceio	954991
+Napoli	959470
+Coimbatore	959823
+Chandigarh	960787
+Ulsan	962865
+Koeln	963395
+Fes	964891
+Port Elizabeth	967677
+Managua	973087
+Zaria	975153
+Srinagar	975857
+Perm	982419
+Birmingham	984333
+Zapopan	987516
+Benxi	987717
+Guatemala City	994938
+Baoding	995652
+Solapur	997281
+Kitakyushu	997536
+Zhu Cheng City	1000000
+Shivaji Nagar	1000000
+Odessa	1001558
+Jieyang	1001985
+Nova Iguacu	1002118
+Volgograd	1011417
+Aurangabad	1016441
+Brussels	1019022
+Calgary	1019942
+Dublin	1024027
+Donetsk	1024700
+Huainan	1027655
+Haora	1027672
+Jabalpur	1030168
+Campinas	1031554
+Seongnamsi	1031935
+Dnipropetrovsk	1032822
+Ufa	1033338
+Xianyang	1034081
+Teni	1034724
+Taichung	1040725
+Changshu City	1047700
+Tbilisi	1049498
+Datong	1052678
+Chelyabinsk	1062919
+Sendai	1063103
+Sendai	1063103
+Visakhapatnam	1063178
+Gaziantep	1065975
+Goyangsi	1073069
+Allahabad	1073438
+RostovnaDonu	1074482
+Yono	1077730
+Ouagadougou	1086505
+Amritsar	1092450
+Yerevan	1093485
+Kazan	1104738
+Maiduguri	1112449
+Leon	1114626
+Baku	1116513
+Malingao	1121974
+Monterrey	1122874
+Benin City	1125058
+Omsk	1129281
+Samara	1134730
+Dubai	1137347
+Lijiang	1137600
+Hiroshima	1143841
+Port Harcourt	1148665
+Tripoli	1150989
+Sofia	1152556
+Copenhagen	1153615
+Varanasi	1164404
+Prague	1165581
+Guarulhos	1169577
+Goiania	1171195
+Guiyang	1171633
+Rosario	1173533
+Rajkot	1177362
+Fuzhou	1179720
+Gustavo A Madero	1185772
+Maputo	1191613
+Dombivli	1193000
+Gustavo A Madero	1193161
+Saitama	1193350
+Dallas	1197816
+Depok	1198129
+Ghaziabad	1199191
+Tongshan	1199193
+Anshan	1199275
+Yueyang	1200000
+Santiago de los Caballeros	1200000
+Omdurman	1200000
+Mandalay	1208099
+Davao	1212504
+Peshawar	1218773
+Faridabad	1220229
+Nowrangapur	1220946
+Meerut	1223184
+Adelaide	1225235
+Ciudad Nezahualcoyotl	1232220
+PortauPrince	1234742
+Milano	1236837
+Suwonsi	1242724
+Adana	1248988
+Shiraz	1249942
+Ras Bayrut	1251739
+Stockholm	1253309
+Munich	1260391
+Thane	1261517
+Kalyan	1262255
+Lusaka	1267440
+Montevideo	1270737
+Belgrade	1273651
+Budta	1273715
+Amman	1275857
+Nizhniy Novgorod	1284164
+Pimpri	1284606
+Brazzaville	1284609
+Semarang	1288084
+Nashik	1289497
+Bamako	1297281
+Yaounde	1299369
+Medina	1300000
+Baotou	1301768
+South Tangerang	1303569
+Kawasaki	1306785
+San Diego	1307402
+Makassar	1321717
+Mecca	1323624
+Gorakhpur	1324570
+San Antonio	1327407
+Douala	1338082
+Khulna	1342339
+Yekaterinburg	1349772
+Kampala	1353189
+Handan	1358318
+Santa Cruz de la Sierra	1364389
+Tangerang	1372124
+Porto Alegre	1372741
+Lubumbashi	1373770
+Tijuana	1376457
+Guankou	1380000
+Barranquilla	1380425
+Gujranwala	1384471
+Valencia	1385083
+The Bronx	1385108
+Hyderabad	1386330
+Luoyang	1390581
+Antananarivo	1391433
+Fukuoka	1392289
+Quito	1399814
+Fushun	1400646
+Belem	1407737
+Vadodara	1409476
+Bursa	1412701
+Gwangju	1416938
+Novosibirsk	1419007
+Tabriz	1424641
+Cordoba	1428214
+Agra	1430055
+Kharkiv	1430885
+Hanoi	1431270
+Multan	1437230
+Palembang	1441500
+Kathmandu	1442271
+Phoenix	1445632
+Karaj	1448075
+Kuala Lumpur	1453975
+Kyoto	1459640
+Kota Bharu	1459994
+Kumasi	1468609
+Daejeon	1475221
+Recife	1478098
+Asuncion	1482200
+Manhattan	1487536
+Ciudad Juarez	1512354
+Kaohsiung	1519711
+Bekasi	1520119
+Philadelphia	1526006
+Kobe	1528478
+Harare	1542813
+Ludhiana	1545368
+Isfahan	1547164
+Damascus	1569394
+Phnom Penh	1573544
+Kaduna	1582102
+Puebla	1590256
+Xinyang	1590668
+Manaus	1598210
+Bhopal	1599914
+Patna	1599920
+Montreal	1600000
+Aleppo	1602264
+Pretoria	1619438
+Barcelona	1621537
+Guadalajara	1640589
+Rabat	1655753
+Vienna	1691468
+Soweto	1695047
+Bandung	1699719
+Warsaw	1702139
+Curitiba	1718421
+Hamburg	1739117
+Mosul	1739800
+Budapest	1741041
+Minsk	1742124
+Rawalpindi	1743101
+Medan	1750971
+Maracay	1754256
+Conakry	1767200
+Ecatepec	1806226
+Iztapalapa	1820888
+Indore	1837041
+Camayenne	1871242
+Bucharest	1877155
+Jilin	1881977
+Sapporo	1883027
+Perth	1896548
+Beirut	1916100
+Sanaa	1937451
+Ordos	1940653
+Guayaquil	1952029
+Accra	1963264
+Khartoum	1974647
+Algiers	1977663
+Tashkent	1978028
+Medellin	1999979
+Almaty	2000900
+Al Basrah al Qadimah	2015483
+Kowloon	2019533
+Johannesburg	2026469
+Al Mawsil al Jadidah	2065597
+Houston	2099451
+Paris	2138551
+Havana	2163824
+Brisbane	2189878
+Nagoya	2191279
+Santo Domingo	2201941
+Brasilia	2207718
+Maracaibo	2225000
+Nagpur	2228018
+Borough of Queens	2272771
+Brooklyn	2300664
+Mashhad	2307177
+Rome	2318895
+Nanchang	2357839
+Belo Horizonte	2373224
+Surabaya	2374658
+Cali	2392877
+Fortaleza	2400000
+Al Jizah	2443203
+Lucknow	2472011
+Dakar	2476400
+Izmir	2500603
+Faisalabad	2506595
+Daegu	2566540
+Mogadishu	2587183
+Osaka	2592413
+Toronto	2600000
+Navi Mumbai	2600000
+Basrah	2600000
+Yunfu	2612800
+Incheon	2628000
+Lanzhou	2628426
+Chicago	2695598
+Dar es Salaam	2698652
+Jaipur	2711758
+Salvador	2711840
+Nairobi	2750547
+Addis Ababa	2757729
+Quezon City	2761720
+Luanda	2776168
+Kiev	2797553
+Kanpur	2823249
+Shijiazhuang	2834942
+Jeddah	2867446
+Surat	2894504
+Pune	2935744
+Caracas	3000000
+UEruemqi	3029372
+Kabul	3043532
+Changsha	3093980
+Durban	3120282
+Zhongshan	3121275
+Zibo	3129228
+Casablanca	3144909
+Pyongyang	3222000
+Madrid	3255944
+Hefei	3310268
+Tangshan	3372102
+Berlin	3426354
+Taiyuan	3426519
+Cape Town	3433441
+Shiyan	3460000
+Ho Chi Minh City	3467331
+Ningbo	3491597
+Tianshui	3500000
+Ankara	3517182
+Xiamen	3531347
+Wuxi	3543719
+Singapore	3547809
+Ibadan	3565108
+Yokohama	3574443
+Puyang	3590000
+Hyderabad	3597816
+Foshan	3600000
+Kano	3626068
+Abidjan	3677115
+Busan	3678555
+Qingdao	3718835
+Ahmedabad	3719710
+Los Angeles	3792621
+Alexandria	3811516
+Kunming	3855346
+Chittagong	3920222
+Dalian	4087733
+Changchun	4193073
+Riyadh	4205961
+Melbourne	4246375
+Zhengzhou	4253913
+Chennai	4328063
+Jinan	4335989
+Yangon	4477638
+Sydney	4627345
+Kolkata	4631392
+Santiago	4837295
+Saint Petersburg	5028000
+Bengaluru	5104047
+Bangkok	5104476
+Shantou	5329024
+Suzhou	5345961
+Taian	5499000
+Harbin	5878939
+Rio de Janeiro	6023699
+Hangzhou	6241971
+Shenyang	6255921
+Lahore	6310888
+Xian	6501190
+Hong Kong	7012738
+Nanchong	7150000
+Tehran	7153309
+Nanjing	7165292
+Baghdad	7216000
+Chengdu	7415590
+Chongqing	7457600
+City of London	7556900
+London	7556900
+Bogota	7674366
+Cairo	7734614
+Lima	7737002
+Kinshasa	7785965
+Taipei	7871900
+Dongguan	8000000
+New York City	8175133
+Tokyo	8336599
+Jakarta	8540121
+Lagos	9000000
+Wuhan	9785388
+Sao Paulo	10021295
+Seoul	10349312
+Dhaka	10356500
+Shenzhen	10358381
+Moscow	10381222
+Manila	10444527
+Delhi	10927986
+Guangzhou	11071424
+Tianjin	11090314
+Istanbul	11174257
+Karachi	11624219
+Beijing	11716620
+Mexico City	12294193
+Mumbai	12691836
+Buenos Aires	13076300
+Shanghai	22315474
