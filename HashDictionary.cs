@@ -27,6 +27,7 @@ namespace HashDictionary
         public TValue this[TKey key] {
             get 
             {
+                
             } 
             set 
             {
